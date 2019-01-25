@@ -1,7 +1,6 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Department Title,% Employed,% Payroll,Value
+2015,Aging,,,
+2015,Aging,Female,,52.63
+2015,Aging,Male,,47.37
+2015,Aging,,Women,50.5
+2015,Aging,,Men,49.5
