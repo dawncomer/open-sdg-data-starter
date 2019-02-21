@@ -1,4 +1,3 @@
 From,To
-Has a computer or mobile device,Type of Internet Access
-Has a computer or mobile device,No internet subscription
-Population,Broadband Subcription
+Access to computer or mobile device,Broadband Subcription
+Access to computer or mobile device,Type of Internet Access
