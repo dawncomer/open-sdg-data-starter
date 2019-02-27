@@ -125,10 +125,10 @@ Year,City of LA Department,School Age Children,Sex of Child / Adult,Units,Value
 2017,,20 to 24 years,Male,% Population Enrolled in Schools,45.4
 2017,,25 to 34 years,Female,% Population Enrolled in Schools,14.59
 2017,,25 to 34 years,Male,% Population Enrolled in Schools,12.68
-2015,*All Departments,,Female,% of Adults Employed,31.0
-2015,*All Departments,,Male,% of Adults Employed,69.0
-2015,*All Departments,,Female,% of Adults on Payroll,28.0
-2015,*All Departments,,Male,% of Adults on Payroll,72.0
+2015,,,Female,% of Adults Employed,31.0
+2015,,,Male,% of Adults Employed,69.0
+2015,,,Female,% of Adults on Payroll,28.0
+2015,,,Male,% of Adults on Payroll,72.0
 2015,Aging,,Female,% of Adults Employed,52.63
 2015,Aging,,Male,% of Adults Employed,47.37
 2015,Aging,,Female,% of Adults on Payroll,50.5
