@@ -1,3 +1,4 @@
 From,To
-Type of Business (with or without Paid Employees),Number of Businesses with Paid Employees
-Type of Business (with or without Paid Employees),Number of Paid Employees
+Type of Business,Businesses with or without Paid Employees
+Type of Business,Businesses with Paid Employees
+Type of Business,Number of Paid Employees
