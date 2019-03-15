@@ -1,5 +1,5 @@
 From,To
-All Firms,Firms with Paid Employees
-All Firms,Number of Paid Employees
-All Firms,Revenue of Firms w/Paid Employees ($M)
-All Firms,Annual Payroll ($M)
+Type of Business,Businesses with Paid Employees
+Type of Business,Number of Paid Employees
+Type of Business,Revenue of Businesses w/Paid Employees ($M)
+Type of Business,Annual Payroll ($M)
