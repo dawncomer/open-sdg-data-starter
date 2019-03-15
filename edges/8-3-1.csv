@@ -1,1 +1,6 @@
 From,To
+All Firms,Number of Firms
+All Firms,Firms with Paid Employees
+All Firms,Number of Paid Employees
+All Firms,Revenue of Firms w/Paid Employees ($M)
+All Firms,Annual Payroll ($M)

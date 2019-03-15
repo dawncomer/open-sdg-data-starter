@@ -1,10 +1,51 @@
-Year,Units,Value
-2002,Number of Firms,345436
-2002,Number of Employees,371194
-2002,Sales Revenue ($M),60
-2007,Number of Firms,409830
-2007,Number of Employees,388536
-2007,Sales Revenue ($M),80
-2013,Number of Firms,432300
-2013,Number of Employees,394600
-2013,Sales Revenue ($M),87
+Year,All Firms,Number of Firms,Firms with Paid Employees,Number of Paid Employees,Revenue of Firms w/Paid Employees ($M),Annual Payroll ($M),Units,Value
+2007,Privately-Held (All),435314.0,,,,,Number,435314.0
+2007,Female-owned (Private),136579.0,,,,,Number,136579.0
+2007,Male-owned (Private),234486.0,,,,,Number,234486.0
+2007,Female-Male Owned (Private),64249.0,,,,,Number,64249.0
+2007,Publicly-Held,14735.0,,,,,Number,14735.0
+2007,Privately-Held (All),,81587.0,,,,Number,
+2007,Female-owned (Private),,15674.0,,,,Number,
+2007,Male-owned (Private),,51137.0,,,,Number,
+2007,Female-Male Owned (Private),,64249.0,,,,Number,
+2007,Publicly-Held,,10321.0,,,,Number,
+2007,Privately-Held (All),,,766764.0,,,Number,
+2007,Female-owned (Private),,,99164.0,,,Number,
+2007,Male-owned (Private),,,534522.0,,,Number,
+2007,Female-Male Owned (Private),,,133079.0,,,Number,
+2007,Publicly-Held,,,682107.0,,,Number,
+2007,Privately-Held (All),,,,138503.0,,Dollars ($M),
+2007,Female-owned (Private),,,,17247.0,,Dollars ($M),
+2007,Male-owned (Private),,,,100985.0,,Dollars ($M),
+2007,Female-Male Owned (Private),,,,20271.0,,Dollars ($M),
+2007,Publicly-Held,,,,222400.0,,Dollars ($M),
+2007,Privately-Held (All),,,,,29910.0,Dollars ($M),
+2007,Female-owned (Private),,,,,3688.0,Dollars ($M),
+2007,Male-owned (Private),,,,,22025.0,Dollars ($M),
+2007,Female-Male Owned (Private),,,,,4196.0,Dollars ($M),
+2007,Publicly-Held,,,,,38340.0,Dollars ($M),
+2007,Privately-Held (All),488671.0,,,,,Number,
+2007,Female-owned (Private),192358.0,,,,,Number,
+2007,Male-owned (Private),262460.0,,,,,Number,
+2007,Female-Male Owned (Private),33853.0,,,,,Number,
+2007,Publicly-Held,9328.0,,,,,Number,
+2007,Privately-Held (All),,83408.0,,,,Number,
+2007,Female-owned (Private),,18262.0,,,,Number,
+2007,Male-owned (Private),,52989.0,,,,Number,
+2007,Female-Male Owned (Private),,12157.0,,,,Number,
+2007,Publicly-Held,,5801.0,,,,Number,
+2007,Privately-Held (All),,,710143.0,,,Number,
+2007,Female-owned (Private),,,125389.0,,,Number,
+2007,Male-owned (Private),,,489344.0,,,Number,
+2007,Female-Male Owned (Private),,,95411.0,,,Number,
+2007,Publicly-Held,,,663176.0,,,Number,
+2007,Privately-Held (All),,,,153934.0,,Dollars ($M),
+2007,Female-owned (Private),,,,21803.0,,Dollars ($M),
+2007,Male-owned (Private),,,,114815.0,,Dollars ($M),
+2007,Female-Male Owned (Private),,,,17316.0,,Dollars ($M),
+2007,Publicly-Held,,,,272307.0,,Dollars ($M),
+2007,Privately-Held (All),,,,,31013.0,Dollars ($M),
+2007,Female-owned (Private),,,,,5004.0,Dollars ($M),
+2007,Male-owned (Private),,,,,22428.0,Dollars ($M),
+2007,Female-Male Owned (Private),,,,,3580.0,Dollars ($M),
+2007,Publicly-Held,,,,,43863.0,Dollars ($M),
