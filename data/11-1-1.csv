@@ -1,13 +1,13 @@
-Year,Sheltered or Unsheltered,City of Los Angeles,County of Los Angeles,Service Planning Area,Race/Ethnicity,Homeless Demographic,Units,Value
+Year,Sheltered/Unsheltered (City),City of Los Angeles,County of Los Angeles,Race/Ethnicity,Homeless Demographic,Sheltered/Unsheltered (County),Units,Value
 2016,,,,,,,Number,28464
 2017,,,,,,,Number,33138
 2018,,,,,,,Number,31285
-2016,Unsheltered (City),,,,,,Number,21338
-2016,Sheltered (City),,,,,,Number,7126
-2017,Unsheltered (City),,,,,,Number,24186
-2017,Sheltered (City),,,,,,Number,8952
-2018,Unsheltered (City),,,,,,Number,22887
-2018,Sheltered (City),,,,,,Number,8398
+2016,Unsheltered,,,,,,Number,21338
+2016,Sheltered,,,,,,Number,7126
+2017,Unsheltered,,,,,,Number,24186
+2017,Sheltered,,,,,,Number,8952
+2018,Unsheltered,,,,,,Number,22887
+2018,Sheltered,,,,,,Number,8398
 2016,,City of LA Council District 1,,,,,Number,1986
 2016,,City of LA Council District 2,,,,,Number,1084
 2016,,City of LA Council District 3,,,,,Number,890
@@ -62,34 +62,34 @@ Year,Sheltered or Unsheltered,City of Los Angeles,County of Los Angeles,Service 
 2016,,,County of Los Angeles,,,,Number,46874
 2017,,,County of Los Angeles,,,,Number,55048
 2018,,,County of Los Angeles,,,,Number,52765
-2016,,,Los Angeles Continuum of Care,,Hispanic or Latino,,Number,11861
-2016,,,Los Angeles Continuum of Care,,White,,Number,11354
-2016,,,Los Angeles Continuum of Care,,Black/African American,,Number,17188
-2016,,,Los Angeles Continuum of Care,,Asian,,Number,464
-2016,,,Los Angeles Continuum of Care,,American Indian/Alaskan Native,,Number,903
-2016,,,Los Angeles Continuum of Care,,Native Hawaiian/Other Pacific Islander,,Number,262
-2016,,,Los Angeles Continuum of Care,,Multi-Racial/Other,,Number,1822
-2017,,,Los Angeles Continuum of Care,,Hispanic or Latino,,Number,18334
-2018,,,Los Angeles Continuum of Care,,Hispanic or Latino,,Number,17540
-2017,,,Los Angeles Continuum of Care,,White,,Number,10614
-2018,,,Los Angeles Continuum of Care,,White,,Number,12538
-2017,,,Los Angeles Continuum of Care,,Black/African American,,Number,20960
-2018,,,Los Angeles Continuum of Care,,Black/African American,,Number,17825
-2017,,,Los Angeles Continuum of Care,,Asian,,Number,537
-2018,,,Los Angeles Continuum of Care,,Asian,,Number,545
-2017,,,Los Angeles Continuum of Care,,American Indian/Alaskan Native,,Number,707
-2018,,,Los Angeles Continuum of Care,,American Indian/Alaskan Native,,Number,565
-2017,,,Los Angeles Continuum of Care,,Native Hawaiian/Other Pacific Islander,,Number,143
-2018,,,Los Angeles Continuum of Care,,Native Hawaiian/Other Pacific Islander,,Number,221
-2017,,,Los Angeles Continuum of Care,,Multi-Racial/Other,,Number,1146
-2018,,,Los Angeles Continuum of Care,,Multi-Racial/Other,,Number,721
-2017,,,Los Angeles Continuum of Care,,,First Time Homeless,Number,8044
-2018,,,Los Angeles Continuum of Care,,,First Time Homeless,Number,9205
-2017,,,County of Los Angeles,,,Veteran Homeless,Number,4792
-2018,,,County of Los Angeles,,,Veteran Homeless,Number,3886
-2017,,,County of Los Angeles,,,Chronically Homeless,Number,17204
-2018,,,County of Los Angeles,,,Chronically Homeless,Number,14075
-2017,Sheltered (County),,County of Los Angeles,,,Youth Homeless,Number,1447
-2017,Unsheltered (County),,County of Los Angeles,,,Youth Homeless,Number,1786
-2018,Sheltered (County),,County of Los Angeles,,,Youth Homeless,Number,1739
-2018,Unsheltered (County),,County of Los Angeles,,,Youth Homeless,Number,1567
+2016,,,Los Angeles Continuum of Care,Hispanic or Latino,,,Number,11861
+2016,,,Los Angeles Continuum of Care,White,,,Number,11354
+2016,,,Los Angeles Continuum of Care,Black/African American,,,Number,17188
+2016,,,Los Angeles Continuum of Care,Asian,,,Number,464
+2016,,,Los Angeles Continuum of Care,American Indian/Alaskan Native,,,Number,903
+2016,,,Los Angeles Continuum of Care,Native Hawaiian/Other Pacific Islander,,,Number,262
+2016,,,Los Angeles Continuum of Care,Multi-Racial/Other,,,Number,1822
+2017,,,Los Angeles Continuum of Care,Hispanic or Latino,,,Number,18334
+2018,,,Los Angeles Continuum of Care,Hispanic or Latino,,,Number,17540
+2017,,,Los Angeles Continuum of Care,White,,,Number,10614
+2018,,,Los Angeles Continuum of Care,White,,,Number,12538
+2017,,,Los Angeles Continuum of Care,Black/African American,,,Number,20960
+2018,,,Los Angeles Continuum of Care,Black/African American,,,Number,17825
+2017,,,Los Angeles Continuum of Care,Asian,,,Number,537
+2018,,,Los Angeles Continuum of Care,Asian,,,Number,545
+2017,,,Los Angeles Continuum of Care,American Indian/Alaskan Native,,,Number,707
+2018,,,Los Angeles Continuum of Care,American Indian/Alaskan Native,,,Number,565
+2017,,,Los Angeles Continuum of Care,Native Hawaiian/Other Pacific Islander,,,Number,143
+2018,,,Los Angeles Continuum of Care,Native Hawaiian/Other Pacific Islander,,,Number,221
+2017,,,Los Angeles Continuum of Care,Multi-Racial/Other,,,Number,1146
+2018,,,Los Angeles Continuum of Care,Multi-Racial/Other,,,Number,721
+2017,,,Los Angeles Continuum of Care,,First Time Homeless,,Number,8044
+2018,,,Los Angeles Continuum of Care,,First Time Homeless,,Number,9205
+2017,,,County of Los Angeles,,Veteran Homeless,,Number,4792
+2018,,,County of Los Angeles,,Veteran Homeless,,Number,3886
+2017,,,County of Los Angeles,,Chronically Homeless,,Number,17204
+2018,,,County of Los Angeles,,Chronically Homeless,,Number,14075
+2017,,,County of Los Angeles,,Youth Homeless,Sheltered (County),Number,1447
+2017,,,County of Los Angeles,,Youth Homeless,Unsheltered (County),Number,1786
+2018,,,County of Los Angeles,,Youth Homeless,Sheltered (County),Number,1739
+2018,,,County of Los Angeles,,Youth Homeless,Unsheltered (County),Number,1567
