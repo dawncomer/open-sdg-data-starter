@@ -1,6 +1,7 @@
 Year,Sheltered or Unsheltered,Geography,City of Los Angeles,County of Los Angeles,Service Planning Area,Race/Ethnicity,Homeless Demographic,Units,Value
 2016,,,,,,,,Number,28464
 2017,,,,,,,,Number,33138
+2018,,,,,,,,Number,31285
 2016,Unsheltered,,,,,,,Number,21338
 2016,Sheltered,,,,,,,Number,7126
 2017,Unsheltered,,,,,,,Number,24186
@@ -82,6 +83,8 @@ Year,Sheltered or Unsheltered,Geography,City of Los Angeles,County of Los Angele
 2018,,Los Angeles Continuum of Care,,,,Native Hawaiian/Other Pacific Islander,,Number,221
 2017,,Los Angeles Continuum of Care,,,,Multi-Racial/Other,,Number,1146
 2018,,Los Angeles Continuum of Care,,,,Multi-Racial/Other,,Number,721
+2017,,Los Angeles Continuum of Care,,,,,First Time Homeless,Number,8044
+2018,,Los Angeles Continuum of Care,,,,,First Time Homeless,Number,9205
 2017,,,,County of Los Angeles,,,Veteran Homeless,Number,4792
 2018,,,,County of Los Angeles,,,Veteran Homeless,Number,3886
 2017,,,,County of Los Angeles,,,Chronically Homeless,Number,17204
@@ -90,8 +93,6 @@ Year,Sheltered or Unsheltered,Geography,City of Los Angeles,County of Los Angele
 2017,Unsheltered,,,County of Los Angeles,,,Youth Homeless,Number,1786
 2018,Sheltered,,,County of Los Angeles,,,Youth Homeless,Number,1739
 2018,Unsheltered,,,County of Los Angeles,,,Youth Homeless,Number,1567
-2017,,Los Angeles Continuum of Care,,,,,First Time Homeless,Number,8044
-2018,,Los Angeles Continuum of Care,,,,,First Time Homeless,Number,9205
 2016,,Service Planning Area (SPA),,,SPA 1 - Antelope Valley,,,Number,3038
 2016,,Service Planning Area (SPA),,,SPA 2 - San Fernando Valley,,,Number,7334
 2016,,Service Planning Area (SPA),,,SPA 3 - San Gabriel Valley,,,Number,3142
