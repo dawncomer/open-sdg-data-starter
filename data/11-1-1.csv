@@ -1,14 +1,14 @@
 Year,City of Los Angeles (by Council District),City of Los Angeles - All/Sheltered/Unsheltered,County of Los Angeles,Race/Ethnicity,Homeless Demographic,Youth Sheltered/Unsheltered (County),Units,Value
-2016,,All (City),,,,,Number,28464
-2017,,All (City),,,,,Number,33138
-2018,,All (City),,,,,Number,31285
-2016,,Unsheltered (City),,,,,Number,21338
-2016,,Sheltered (City),,,,,Number,7126
-2017,,Unsheltered (City),,,,,Number,24186
-2017,,Sheltered (City),,,,,Number,8952
-2018,,Unsheltered (City),,,,,Number,22887
-2018,,Sheltered (City),,,,,Number,8398
-2016,City of LA Council District 1,,,,,,Number,1986
+2016,,City of LA - All,,,,,Number,28464
+2017,,City of LA - All,,,,,Number,33138
+2018,,City of LA - All,,,,,Number,31285
+2016,,City of LA - Unsheltered,,,,,Number,21338
+2016,,City of LA - Sheltered,,,,,Number,7126
+2017,,City of LA - Unsheltered,,,,,Number,24186
+2017,,City of LA - Sheltered,,,,,Number,8952
+2018,,City of LA - Unsheltered,,,,,Number,22887
+2018,,City of LA - Sheltered,,,,,Number,8398
+2016,CD 1,,,,,,Number,1986
 2016,City of LA Council District 2,,,,,,Number,1084
 2016,City of LA Council District 3,,,,,,Number,890
 2016,City of LA Council District 4,,,,,,Number,628
@@ -89,7 +89,7 @@ Year,City of Los Angeles (by Council District),City of Los Angeles - All/Shelter
 2018,,,County of Los Angeles,,Veteran Homeless,,Number,3886
 2017,,,County of Los Angeles,,Chronically Homeless,,Number,17204
 2018,,,County of Los Angeles,,Chronically Homeless,,Number,14075
-2017,,,County of Los Angeles,,,Sheltered Youth (County),Number,1447
-2017,,,County of Los Angeles,,,Unsheltered Youth (County),Number,1786
-2018,,,County of Los Angeles,,,Sheltered Youth (County),Number,1739
-2018,,,County of Los Angeles,,,Unsheltered Youth (County),Number,1567
+2017,,,County of Los Angeles,,,Sheltered Youth,Number,1447
+2017,,,County of Los Angeles,,,Unsheltered Youth,Number,1786
+2018,,,County of Los Angeles,,,Sheltered Youth,Number,1739
+2018,,,County of Los Angeles,,,Unsheltered Youth,Number,1567
