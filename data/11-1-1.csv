@@ -2,12 +2,12 @@ Year,City of Los Angeles (by Council District),Sheltered/Unsheltered,County of L
 2016,,,,,,,Number,28464
 2017,,,,,,,Number,33138
 2018,,,,,,,Number,31285
-2016,All,Unsheltered,,,,,Number,21338
-2016,All,Sheltered,,,,,Number,7126
-2017,All,Unsheltered,,,,,Number,24186
-2017,All,Sheltered,,,,,Number,8952
-2018,All,Unsheltered,,,,,Number,22887
-2018,All,Sheltered,,,,,Number,8398
+2016,,Unsheltered,,,,,Number,21338
+2016,,Sheltered,,,,,Number,7126
+2017,,Unsheltered,,,,,Number,24186
+2017,,Sheltered,,,,,Number,8952
+2018,,Unsheltered,,,,,Number,22887
+2018,,Sheltered,,,,,Number,8398
 2016,City of LA Council District 1,,,,,,Number,1986
 2016,City of LA Council District 2,,,,,,Number,1084
 2016,City of LA Council District 3,,,,,,Number,890
