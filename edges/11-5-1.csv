@@ -1,3 +1,4 @@
 From,To
-Fire Name (County),Cause of Death / Missing
-Cause of Death / Missing,Missing
+Fire Name (County),Fire Deaths
+Fire Name (County),Mudslide Deaths
+Fire Deaths,Missing
