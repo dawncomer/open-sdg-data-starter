@@ -1,1 +1,1 @@
-{"data":{"Year":[2008,2008,2014,2014],"Sexual Assault":["Rape (Legacy and Revised Definition)","Non-rape Sexual Assaults","Rape (Legacy and Revised Definition)","Non-rape Sexual Assaults"],"Value":[1141,2235,1465,1631]},"edges":[]}
+{"data":{"Year":[2008,2014,2008,2008,2014,2014],"Sexual Assault":[null,null,"Rape (Legacy and Revised Definition)","Non-rape Sexual Assaults","Rape (Legacy and Revised Definition)","Non-rape Sexual Assaults"],"Value":[3376,3096,1141,2235,1465,1631]},"edges":[]}
