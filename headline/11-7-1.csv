@@ -1,16 +1,16 @@
 Year,Units,Value
-2013.0,Acres,36113.0
-2013.0,"Park Acres per 1,000 Residents",9.4
-2013.0,Percentage of Population w/Walkable Park Access,52.5
-2014.0,Acres,36177.0
-2014.0,"Park Acres per 1,000 Residents",9.3
-2014.0,Percentage of Population w/Walkable Park Access,54.1
-2015.0,Acres,38822.0
-2015.0,"Park Acres per 1,000 Residents",9.9
-2015.0,Percentage of Population w/Walkable Park Access,55.0
-2016.0,Acres,37405.0
-2016.0,"Park Acres per 1,000 Residents",9.5
-2016.0,Percentage of Population w/Walkable Park Access,55.0
-,Acres,39563.0
-,"Park Acres per 1,000 Residents",
-,Percentage of Population w/Walkable Park Access,56.0
+2013,Acres,36113.0
+2013,"Park Acres per 1,000 Residents",9.4
+2013,Percentage of Population w/Walkable Park Access,52.5
+2014,Acres,36177.0
+2014,"Park Acres per 1,000 Residents",9.3
+2014,Percentage of Population w/Walkable Park Access,54.1
+2015,Acres,38822.0
+2015,"Park Acres per 1,000 Residents",9.9
+2015,Percentage of Population w/Walkable Park Access,55.0
+2016,Acres,37405.0
+2016,"Park Acres per 1,000 Residents",9.5
+2016,Percentage of Population w/Walkable Park Access,55.0
+2017,Acres,39563.0
+2017,"Park Acres per 1,000 Residents",
+2017,Percentage of Population w/Walkable Park Access,56.0

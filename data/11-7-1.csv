@@ -1,63 +1,63 @@
 Year,Park Agency (within City of LA limits),Spend Per Resident,Units,Value
-2013.0,,,Acres,36113.0
-2013.0,LA Dept. of Recreation & Parks,,Acres,15904.0
-2013.0,CA Dept. of Parks & Recreation,,Acres,10465.0
-2013.0,Mountains Recreation & Conservatory,,Acres,5938.0
-2013.0,US Forest Service (Angeles National Forest ),,Acres,2641.0
-2013.0,LA County Dept. of Parks & Recreation,,Acres,659.0
-2013.0,LA Dept. of Water & Power,,Acres,288.0
-2013.0,Port of LA,,Acres,218.0
-2013.0,,,"Park Acres per 1,000 Residents",9.4
-2013.0,,,Percentage of Population w/Walkable Park Access,52.5
-2014.0,,,Acres,36177.0
-2014.0,LA Dept. of Recreation & Parks,,Acres,16000.0
-2014.0,CA Dept. of Parks & Recreation,,Acres,10465.0
-2014.0,Mountains Recreation & Conservatory,,Acres,5937.0
-2014.0,US Forest Service (Angeles National Forest ),,Acres,2641.0
-2014.0,LA County Dept. of Parks & Recreation,,Acres,659.0
-2014.0,LA Dept. of Water & Power,,Acres,288.0
-2014.0,Port of LA,,Acres,187.0
-2014.0,,,"Park Acres per 1,000 Residents",9.3
-2014.0,,,Percentage of Population w/Walkable Park Access,54.1
-2014.0,,Operating Spend,Dollars,66.0
-2014.0,,Capital Spend,Dollars,15.0
-2014.0,,Total Spend,Dollars,82.0
-2015.0,,,Acres,38822.0
-2015.0,LA Dept. of Recreation & Parks,,Acres,16150.0
-2015.0,CA Dept. of Parks & Recreation,,Acres,10465.0
-2015.0,Mountains Recreation & Conservatory,,Acres,7377.0
-2015.0,US Forest Service (Angeles National Forest ),,Acres,3696.0
-2015.0,LA County Dept. of Parks & Recreation,,Acres,659.0
-2015.0,LA Dept. of Water & Power,,Acres,288.0
-2015.0,Port of LA,,Acres,187.0
-2015.0,,,"Park Acres per 1,000 Residents",9.9
-2015.0,,,Percentage of Population w/Walkable Park Access,55.0
-2015.0,,Operating Spend,Dollars,72.0
-2015.0,,Capital Spend,Dollars,22.0
-2015.0,,Total Spend,Dollars,94.0
-2016.0,,,Acres,37405.0
-2016.0,LA Dept. of Recreation & Parks,,Acres,16150.0
-2016.0,CA Dept. of Parks & Recreation,,Acres,10465.0
-2016.0,Mountains Recreation & Conservatory,,Acres,5960.0
-2016.0,US Forest Service (Angeles National Forest ),,Acres,3696.0
-2016.0,LA County Dept. of Parks & Recreation,,Acres,659.0
-2016.0,LA Dept. of Water & Power,,Acres,288.0
-2016.0,Port of LA,,Acres,187.0
-2016.0,,,"Park Acres per 1,000 Residents",9.5
-2016.0,,,Percentage of Population w/Walkable Park Access,55.0
-2016.0,,Operating Spend,Dollars,62.0
-2016.0,,Capital Spend,Dollars,16.0
-2016.0,,Total Spend,Dollars,78.0
-,,,Acres,39563.0
-,LA Dept. of Recreation & Parks,,Acres,
-,CA Dept. of Parks & Recreation,,Acres,
-,Mountains Recreation & Conservatory,,Acres,
-,US Forest Service (Angeles National Forest ),,Acres,
-,LA County Dept. of Parks & Recreation,,Acres,
-,LA Dept. of Water & Power,,Acres,
-,Port of LA,,Acres,
-,,,"Park Acres per 1,000 Residents",
-,,,Percentage of Population w/Walkable Park Access,56.0
-,,Operating Spend,Dollars,
-,,Capital Spend,Dollars,
-,,Total Spend,Dollars,103.0
+2013,,,Acres,36113.0
+2013,LA Dept. of Recreation & Parks,,Acres,15904.0
+2013,CA Dept. of Parks & Recreation,,Acres,10465.0
+2013,Mountains Recreation & Conservatory,,Acres,5938.0
+2013,US Forest Service (Angeles National Forest ),,Acres,2641.0
+2013,LA County Dept. of Parks & Recreation,,Acres,659.0
+2013,LA Dept. of Water & Power,,Acres,288.0
+2013,Port of LA,,Acres,218.0
+2013,,,"Park Acres per 1,000 Residents",9.4
+2013,,,Percentage of Population w/Walkable Park Access,52.5
+2014,,,Acres,36177.0
+2014,LA Dept. of Recreation & Parks,,Acres,16000.0
+2014,CA Dept. of Parks & Recreation,,Acres,10465.0
+2014,Mountains Recreation & Conservatory,,Acres,5937.0
+2014,US Forest Service (Angeles National Forest ),,Acres,2641.0
+2014,LA County Dept. of Parks & Recreation,,Acres,659.0
+2014,LA Dept. of Water & Power,,Acres,288.0
+2014,Port of LA,,Acres,187.0
+2014,,,"Park Acres per 1,000 Residents",9.3
+2014,,,Percentage of Population w/Walkable Park Access,54.1
+2014,,Operating Spend,Dollars,66.0
+2014,,Capital Spend,Dollars,15.0
+2014,,Total Spend,Dollars,82.0
+2015,,,Acres,38822.0
+2015,LA Dept. of Recreation & Parks,,Acres,16150.0
+2015,CA Dept. of Parks & Recreation,,Acres,10465.0
+2015,Mountains Recreation & Conservatory,,Acres,7377.0
+2015,US Forest Service (Angeles National Forest ),,Acres,3696.0
+2015,LA County Dept. of Parks & Recreation,,Acres,659.0
+2015,LA Dept. of Water & Power,,Acres,288.0
+2015,Port of LA,,Acres,187.0
+2015,,,"Park Acres per 1,000 Residents",9.9
+2015,,,Percentage of Population w/Walkable Park Access,55.0
+2015,,Operating Spend,Dollars,72.0
+2015,,Capital Spend,Dollars,22.0
+2015,,Total Spend,Dollars,94.0
+2016,,,Acres,37405.0
+2016,LA Dept. of Recreation & Parks,,Acres,16150.0
+2016,CA Dept. of Parks & Recreation,,Acres,10465.0
+2016,Mountains Recreation & Conservatory,,Acres,5960.0
+2016,US Forest Service (Angeles National Forest ),,Acres,3696.0
+2016,LA County Dept. of Parks & Recreation,,Acres,659.0
+2016,LA Dept. of Water & Power,,Acres,288.0
+2016,Port of LA,,Acres,187.0
+2016,,,"Park Acres per 1,000 Residents",9.5
+2016,,,Percentage of Population w/Walkable Park Access,55.0
+2016,,Operating Spend,Dollars,62.0
+2016,,Capital Spend,Dollars,16.0
+2016,,Total Spend,Dollars,78.0
+2017,,,Acres,39563.0
+2017,LA Dept. of Recreation & Parks,,Acres,
+2017,CA Dept. of Parks & Recreation,,Acres,
+2017,Mountains Recreation & Conservatory,,Acres,
+2017,US Forest Service (Angeles National Forest ),,Acres,
+2017,LA County Dept. of Parks & Recreation,,Acres,
+2017,LA Dept. of Water & Power,,Acres,
+2017,Port of LA,,Acres,
+2017,,,"Park Acres per 1,000 Residents",
+2017,,,Percentage of Population w/Walkable Park Access,56.0
+2017,,Operating Spend,Dollars,
+2017,,Capital Spend,Dollars,
+2017,,Total Spend,Dollars,103.0
