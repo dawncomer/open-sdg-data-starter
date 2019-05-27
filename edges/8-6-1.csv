@@ -1,5 +1,5 @@
 From,To
-Youth Status,Prior Work Experience
-Youth Status,Demographic
-Youth Status,Educational Attainment
-Youth Status,Labor Force Status
+Connected vs. Disconnected,Prior Work Experience (Connected & Disconnected)
+Connected vs. Disconnected,Educational Attainment (Connected & Disconnected)
+Connected vs. Disconnected,Labor Force Status (Connected & Disconnected)
+Disconnected,Demographic (Disconnected)
