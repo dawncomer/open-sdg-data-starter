@@ -65,6 +65,21 @@ jobs:
       - run:
           name: Deploy to Github
           command: bash scripts/deploy/circleci/deploy_staging.sh
+  deploy_s3:
+    docker:
+      - image: circleci/python:2.7-jessie
+    steps:
+      - attach_workspace:
+          at: /tmp/build
+      - run:
+          name: PWD
+          command: pwd
+      - run:
+          name: Install awscli
+          command: sudo pip install awscli
+      - run:
+          name: Deploy to S3
+          command: aws s3 sync /tmp/build/_site/ s3://sdgdatabase.lamayor.org --delete
   deploy_prod:
     docker:
       - image: circleci/python:3.6.1
@@ -88,6 +103,7 @@ workflows:
             branches:
               ignore:
                 - gh-pages
+                - aws
       - build:
           requires:
             - test
@@ -102,9 +118,9 @@ workflows:
           filters:
             branches:
               only: develop
-      #- deploy_prod:
-      #    requires:
-      #      - build
-      #    filters:
-      #      branches:
-      #        only: master
+      - deploy_s3:
+         requires:
+           - build
+         filters:
+           branches:
+             only: aws
