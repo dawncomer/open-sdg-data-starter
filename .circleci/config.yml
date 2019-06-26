@@ -118,6 +118,9 @@ workflows:
           filters:
             branches:
               only: develop
+  push_s3:
+    jobs:
+      - build
       - deploy_s3:
          requires:
            - build
