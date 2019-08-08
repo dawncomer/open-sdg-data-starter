@@ -1,23 +1,12 @@
-Year,Homicide Breakdown,Value
-2007.0,,395
-2008.0,,384
-2009.0,,312
-2010.0,,293
-2011.0,,297
-2012.0,,299
-2013.0,,251
-2014.0,,260
-2015.0,,283
-2016.0,,294
-2017.0,,282
-2018.0,,259
-2018.0,Committed Outside,187
-,Commited with a Gun,189
-,Gang-Related,145
-,Victims age 18-25,66
-,Victims age 45+,67
-,Female Victims,48
-,Homeless Victims,39
-,Suspects were homeless,17
-,Domestic-Violence Related,22
-,Murder/Suicide,13
+Year,Value
+2007,1907
+2008,1616
+2009,1305
+2010,1366
+2011,1299
+2012,1186
+2013,1011
+2014,994
+2015,1119
+2016,1179
+2017,1059
