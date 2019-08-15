@@ -1,4 +1,4 @@
 From,To
-Unit,Grade
-Unit,Gender
-Unit,Poverty
+Demographic,Grade Level
+Demographic,Gender
+Demographic,Poverty Level
