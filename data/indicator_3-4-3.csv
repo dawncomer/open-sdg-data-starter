@@ -1,7 +1,14 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gender,Units,Value
+2018,,By Gender,50.8
+2018,Male,By Gender,51.3
+2018,Female,By Gender,50.2
+2018,,By Race/Ethnicity,50.8
+2018,Latino,By Race/Ethnicity,46
+2018,White,By Race/Ethnicity,55.2
+2018,African American,By Race/Ethnicity,59.4
+2018,Asian,By Race/Ethnicity,39.4
+2018,,By Education Attainment,50.8
+2018,Less than high school,By Education Attainment,47.6
+2018,High school,By Education Attainment,41.3
+2018,Some college or trade school,By Education Attainment,54.7
+2018,College or post graduate degree,By Education Attainment,56.7
