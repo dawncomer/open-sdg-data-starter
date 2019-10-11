@@ -4,36 +4,24 @@ layout: indicator
 permalink: /4-a-x/
 sdg_goal: '4'
 data_non_statistical: false
-goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-04-0A-01.pdf'
-goal_meta_link_text: United Nations Sustainable Development Goals Metadata (pdf 210kB)
-graph_type: line
+graph_type: bar
 indicator_name: >-
-  Proportion of students who (a) believe adults at their school are fair to
-  people of all backgrounds (race, religion, rich/poor,  etc.); (b) feel that
-  the cafeteria and lunch areas at their school are clean; (c) feel that the
-  bathrooms at their school are clean; (c) feel safe on school grounds (d) feel
-  safe in the neighborhood outside the school; and (e) believe that bullying is
-  not a problem at their school.
+  Proportion of students who (d) feel safe on school grounds and (b) feel safe
+  in the neighborhood outside the school
 indicator_sort_order: 04-aa-x
 published: true
-reporting_status: notstarted
+reporting_status: complete
 target: >-
   Build and upgrade education facilities that are child, disability and gender
   sensitive and provide safe, non-violent, inclusive and effective learning
   environments for all
 target_id: 4.a
 graph_title: >-
-  Proportion of students who (a) believe adults at their school are fair to
-  people of all backgrounds (race, religion, rich/poor,  etc.); (b) feel that
-  the cafeteria and lunch areas at their school are clean; (c) feel that the
-  bathrooms at their school are clean; (c) feel safe on school grounds (d) feel
-  safe in the neighborhood outside the school; and (e) believe that bullying is
-  not a problem at their school.
-un_custodian_agency: UNESCO-UIS
-un_designated_tier: '2'
+  Proportion of students who (d) feel safe on school grounds and (b) feel safe
+  in the neighborhood outside the school
 data_show_map: false
 source_active_1: true
-source_url_text_1: Link to source
+source_url_text_1: LAUSD School Experience Survey Data Files
 source_active_2: false
 source_url_text_2: Link to Source
 source_active_3: false
@@ -47,4 +35,16 @@ source_url_text_6: Link to source
 title: Untitled
 tags:
   - New
+national_geographical_coverage: City of Los Angeles
+computation_units: Percentage
+national_indicator_available: >-
+  Proportion of students who (d) feel safe on school grounds and (b) feel safe
+  in the neighborhood outside the school
+national_indicator_description: >-
+  Proportions of students in LAUSD high schools who agree or agree strongly with
+  the statements "I feel safe at school" and "I feel safe in the neighborhood
+  around school" in the LAUSD school experience surveys.
+source_organisation_1: Los Angeles Unified School District
+source_geographical_coverage_1: City of Los Angeles
+source_url_1: 'https://achieve.lausd.net/Page/8403'
 ---
