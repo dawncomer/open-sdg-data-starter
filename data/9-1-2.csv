@@ -1,9 +1,41 @@
-Year,Units,Value
-2015,International passengers through LAX,20740075
-2015,TEU cargo containers through the Port of LA,8160458
-2016,International passengers through LAX,22850232
-2016,TEU cargo containers through the Port of LA,8856783
-2017,International passengers through LAX,24867409
-2017,TEU cargo containers through the Port of LA,9343193
-2018,International passengers through LAX,26053419
-2018,TEU cargo containers through the Port of LA,9458746
+Year,LAX passengers and cargo,POLA cargo,Units,Value
+2012,LAX international passengers,,Los Angeles International Airport,17152914.0
+2012,LAX total air cargo (tons),,Los Angeles International Airport,1955593.0
+2012,,POLA total imports,Port of Los Angeles,4209813.0
+2012,,POLA total exports,Port of Los Angeles,1824825.0
+2012,,POLA total TEUs,Port of Los Angeles,8077714.0
+2013,LAX international passengers,,Los Angeles International Airport,17852139.0
+2013,LAX total air cargo (tons),,Los Angeles International Airport,1928720.0
+2013,,POLA total imports,Port of Los Angeles,4110715.0
+2013,,POLA total exports,Port of Los Angeles,3757867.0
+2013,,POLA total TEUs,Port of Los Angeles,7868582.0
+2014,LAX international passengers,,Los Angeles International Airport,19106746.0
+2014,LAX total air cargo (tons),,Los Angeles International Airport,2002910.0
+2014,,POLA total imports,Port of Los Angeles,4429914.0
+2014,,POLA total exports,Port of Los Angeles,3910152.0
+2014,,POLA total TEUs,Port of Los Angeles,8340066.0
+2015,LAX international passengers,,Los Angeles International Airport,20740075.0
+2015,LAX total air cargo (tons),,Los Angeles International Airport,2141496.0
+2015,,POLA total imports,Port of Los Angeles,4279630.0
+2015,,POLA total exports,Port of Los Angeles,3880828.0
+2015,,POLA total TEUs,Port of Los Angeles,8160458.0
+2016,LAX international passengers,,Los Angeles International Airport,22850232.0
+2016,LAX total air cargo (tons),,Los Angeles International Airport,2208415.0
+2016,,POLA total imports,Port of Los Angeles,4670534.0
+2016,,POLA total exports,Port of Los Angeles,4186248.0
+2016,,POLA total TEUs,Port of Los Angeles,8856783.0
+2017,LAX international passengers,,Los Angeles International Airport,24944160.0
+2017,LAX total air cargo (tons),,Los Angeles International Airport,2389474.0
+2017,,POLA total imports,Port of Los Angeles,4851549.0
+2017,,POLA total exports,Port of Los Angeles,4491644.0
+2017,,POLA total TEUs,Port of Los Angeles,9343193.0
+2018,LAX international passengers,,Los Angeles International Airport,17774987.0
+2018,LAX total air cargo (tons),,Los Angeles International Airport,1598059.0
+2018,,POLA total imports,Port of Los Angeles,5035294.0
+2018,,POLA total exports,Port of Los Angeles,4423455.0
+2018,,POLA total TEUs,Port of Los Angeles,9458749.0
+2019,LAX international passengers,,Los Angeles International Airport,
+2019,LAX total air cargo (tons),,Los Angeles International Airport,
+2019,,POLA total imports,Port of Los Angeles,3697187.0
+2019,,POLA total exports,Port of Los Angeles,3394589.0
+2019,,POLA total TEUs,Port of Los Angeles,7091776.0
