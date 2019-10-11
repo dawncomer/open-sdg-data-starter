@@ -1,3 +1,9 @@
-Year,Value
-2015,2
-2016,2
+Year,Units,Value
+2015,International passengers through LAX,20740075
+2015,TEU cargo containers through the Port of LA,8160458
+2016,International passengers through LAX,22850232
+2016,TEU cargo containers through the Port of LA,8856783
+2017,International passengers through LAX,24867409
+2017,TEU cargo containers through the Port of LA,9343193
+2018,International passengers through LAX,26053419
+2018,TEU cargo containers through the Port of LA,9458746
