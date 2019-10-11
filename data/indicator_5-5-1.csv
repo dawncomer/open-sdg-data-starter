@@ -1,32 +1,46 @@
-Year,Elected Officials (w/Female Representation),Units,Value
-2009,All,% of Elected Seats Held by Women,17
-2010,All,% of Elected Seats Held by Women,17
-2011,All,% of Elected Seats Held by Women,17
-2012,All,% of Elected Seats Held by Women,11
-2013,All,% of Elected Seats Held by Women,6
-2014,All,% of Elected Seats Held by Women,6
-2015,All,% of Elected Seats Held by Women,6
-2016,All,% of Elected Seats Held by Women,6
-2017,All,% of Elected Seats Held by Women,11
-2009,All,# of Elected Seats Held by Women,3
-2010,All,# of Elected Seats Held by Women,3
-2011,All,# of Elected Seats Held by Women,3
-2012,All,# of Elected Seats Held by Women,2
-2013,All,# of Elected Seats Held by Women,1
-2014,All,# of Elected Seats Held by Women,1
-2015,All,# of Elected Seats Held by Women,1
-2016,All,# of Elected Seats Held by Women,1
-2017,All,# of Elected Seats Held by Women,2
-2009,City Controller,# of Elected Seats Held by Women,1
-2010,City Controller,# of Elected Seats Held by Women,1
-2011,City Controller,# of Elected Seats Held by Women,1
-2012,City Controller,# of Elected Seats Held by Women,1
-2009,Council Seats,# of Elected Seats Held by Women,2
-2010,Council Seats,# of Elected Seats Held by Women,2
-2011,Council Seats,# of Elected Seats Held by Women,2
-2012,Council Seats,# of Elected Seats Held by Women,1
-2013,Council Seats,# of Elected Seats Held by Women,1
-2014,Council Seats,# of Elected Seats Held by Women,1
-2015,Council Seats,# of Elected Seats Held by Women,1
-2016,Council Seats,# of Elected Seats Held by Women,1
-2017,Council Seats,# of Elected Seats Held by Women,2
+Year,Gender,Units,Value
+2019,,Council Seats,15
+2019,M,Council Seats,13
+2019,F,Council Seats,2
+2019,M,Proportion of Council Seats,87
+2019,F,Proportion of Council Seats,13
+2018,,Council Seats,15
+2018,M,Council Seats,13
+2018,F,Council Seats,2
+2018,M,Proportion of Council Seats,87
+2018,F,Proportion of Council Seats,13
+2017,,Council Seats,15
+2017,M,Council Seats,13
+2017,F,Council Seats,2
+2017,M,Proportion of Council Seats,87
+2017,F,Proportion of Council Seats,13
+2016,,Council Seats,15
+2016,M,Council Seats,14
+2016,F,Council Seats,1
+2016,M,Proportion of Council Seats,93
+2016,F,Proportion of Council Seats,7
+2015,,Council Seats,15
+2015,M,Council Seats,14
+2015,F,Council Seats,1
+2015,M,Proportion of Council Seats,93
+2015,F,Proportion of Council Seats,7
+2014,,Council Seats,15
+2014,M,Council Seats,14
+2014,F,Council Seats,1
+2014,M,Proportion of Council Seats,93
+2014,F,Proportion of Council Seats,7
+2013,,Council Seats,15
+2013,M,Council Seats,14
+2013,F,Council Seats,1
+2013,M,Proportion of Council Seats,93
+2013,F,Proportion of Council Seats,7
+2012,,Council Seats,15
+2012,M,Council Seats,15
+2012,F,Council Seats,0
+2012,M,Proportion of Council Seats,100
+2012,F,Proportion of Council Seats,0
+2011,,Council Seats,15
+2011,M,Council Seats,14
+2011,F,Council Seats,1
+2011,M,Proportion of Council Seats,93
+2011,F,Proportion of Council Seats,7
