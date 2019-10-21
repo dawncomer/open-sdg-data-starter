@@ -146,6 +146,8 @@ prose:
                 value: 'Revised'
               - name: 'New'
                 value: 'New'
+              - name: 'Not Applicable'
+                value: 'Not Applicable'
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
