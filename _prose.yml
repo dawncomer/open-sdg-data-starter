@@ -159,6 +159,8 @@ prose:
                 value: 'complete'
               - name: 'notstarted'
                 value: 'notstarted'
+              - name: 'notapplicable'
+                value: 'notapplicable'
             scope: data
       - name: data_non_statistical
         field:
