@@ -1,7 +1,55 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,12
-2016,B,3
-2016,,2
+Year,Cause of death,Units,Value
+2011,,Number of deaths,40897
+2011,,"Rate per 1,000 deaths",700.8
+2011,respiratory disease,Number of deaths,5584
+2011,respiratory disease,"Rate per 1,000 deaths",95.6
+2011,circulatory disease,Number of deaths,21374
+2011,circulatory disease,"Rate per 1,000 deaths",366.2
+2011,cancer,Number of deaths,13939
+2011,cancer,"Rate per 1,000 deaths",238.8
+2012,,Number of deaths,19854.5
+2012,,"Rate per 1,000 deaths",338.3
+2012,respiratory disease,Number of deaths,5328
+2012,respiratory disease,"Rate per 1,000 deaths",90.8
+2012,circulatory disease,Number of deaths,21275
+2012,circulatory disease,"Rate per 1,000 deaths",362.5
+2012,cancer,Number of deaths,14164
+2012,cancer,"Rate per 1,000 deaths",241.3
+2013,,Number of deaths,41215
+2013,,"Rate per 1,000 deaths",688.2
+2013,respiratory disease,Number of deaths,5802
+2013,respiratory disease,"Rate per 1,000 deaths",96.8
+2013,circulatory disease,Number of deaths,21525
+2013,circulatory disease,"Rate per 1,000 deaths",359.4
+2013,cancer,Number of deaths,13888
+2013,cancer,"Rate per 1,000 deaths",231.9
+2014,,Number of deaths,41465
+2014,,"Rate per 1,000 deaths",705.3
+2014,respiratory disease,Number of deaths,5398
+2014,respiratory disease,"Rate per 1,000 deaths",91.8
+2014,circulatory disease,Number of deaths,21911
+2014,circulatory disease,"Rate per 1,000 deaths",372.7
+2014,cancer,Number of deaths,14156
+2014,cancer,"Rate per 1,000 deaths",240.8
+2015,,Number of deaths,42268
+2015,,"Rate per 1,000 deaths",677.2
+2015,respiratory disease,Number of deaths,5667
+2015,respiratory disease,"Rate per 1,000 deaths",90.8
+2015,circulatory disease,Number of deaths,22078
+2015,circulatory disease,"Rate per 1,000 deaths",353.7
+2015,cancer,Number of deaths,14523
+2015,cancer,"Rate per 1,000 deaths",5.6
+2016,,Number of deaths,42670
+2016,,"Rate per 1,000 deaths",675.3
+2016,respiratory disease,Number of deaths,5805
+2016,respiratory disease,"Rate per 1,000 deaths",91.87
+2016,circulatory disease,Number of deaths,22349
+2016,circulatory disease,"Rate per 1,000 deaths",353.7
+2016,cancer,Number of deaths,14516
+2016,cancer,"Rate per 1,000 deaths",229.7
+2017,,Number of deaths,28008
+2017,,"Rate per 1,000 deaths",439
+2017,respiratory disease,Number of deaths,5659
+2017,respiratory disease,"Rate per 1,000 deaths",88.7
+2017,circulatory disease,Number of deaths,22349
+2017,circulatory disease,"Rate per 1,000 deaths",350.3
