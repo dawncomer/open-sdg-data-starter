@@ -1,108 +1,133 @@
-Year,Sheltered/Unsheltered,Gender,Race/Ethnicity,Age,Sexual Orientation,Health/Disability,Domestic Violence,Value
-2019,,,,,,,,36165
-2019,sheltered,,,,,,,8944
-2019,unsheltered,,,,,,,27221
-2019,,male,,,,,,24360
-2019,,female,,,,,,10845
-2019,,transgender,,,,,,810
-2019,,gender non-conforming,,,,,,150
-2019,,,American Indian/ Alaska Native,,,,,530
-2019,,,Asian,,,,,299
-2019,,,Black/ African American,,,,,13629
-2019,,,Hispanic/ Latino,,,,,12403
-2019,,,Native Hawaiian/ Other Pacific Islander,,,,,100
-2019,,,White,,,,,8223
-2019,,,Multi-Racial/Other,,,,,981
-2019,,,,under 18,,,,3305
-2019,,,,18-24,,,,2272
-2019,,,,25-54,,,,21788
-2019,,,,55-61,,,,5654
-2019,,,,62 and over,,,,3146
-2019,,,,,straight,,,32487
-2019,,,,,gay or lesbian,,,1401
-2019,,,,,bisexual,,,1438
-2019,,,,,sexual orientation non-conforming,,,839
-2019,,,,,,substance use disorder,,4888
-2019,,,,,,HIV/AIDS,,867
-2019,,,,,,serious mental illness,,8785
-2019,,,,,,developmental disability,,3079
-2019,,,,,,physical disability,,6095
-2019,,,,,,,Domestic/Intimate Partner Violence Experience,12860
-2019,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,1873
-2018,,,,,,,,31285
-2018,sheltered,,,,,,,8398
-2018,unsheltered,,,,,,,22887
-2018,,male,,,,,,20907
-2018,,female,,,,,,9577
-2018,,transgender,,,,,,688
-2018,,gender non-conforming,,,,,,113
-2018,,,American Indian/ Alaska Native,,,,,324
-2018,,,Asian,,,,,352
-2018,,,Black/ African American,,,,,12235
-2018,,,Hispanic/ Latino,,,,,10813
-2018,,,Native Hawaiian/ Other Pacific Islander,,,,,77
-2018,,,White,,,,,6978
-2018,,,Multi-Racial/Other,,,,,506
-2018,,,,under 18,,,,3022
-2018,,,,18-24,,,,2052
-2018,,,,25-54,,,,18446
-2018,,,,55-61,,,,4755
-2018,,,,62 and over,,,,3010
-2018,,,,,,substance use disorder,,4738
-2018,,,,,,HIV/AIDS,,588
-2018,,,,,,serious mental illness,,7843
-2018,,,,,,developmental disability,,1764
-2018,,,,,,physical disability,,4391
-2018,,,,,,,Domestic/Intimate Partner Violence Experience,9088
-2018,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,1913
-2017,,,,,,,,33138
-2017,sheltered,,,,,,,8952
-2017,unsheltered,,,,,,,24186
-2017,,male,,,,,,22297
-2017,,female,,,,,,10387
-2017,,transgender,,,,,,363
-2017,,gender non-conforming,,,,,,90
-2017,,,American Indian/ Alaska Native,,,,,319
-2017,,,Asian,,,,,283
-2017,,,Black/ African American,,,,,15607
-2017,,,Hispanic/ Latino,,,,,10177
-2017,,,Native Hawaiian/ Other Pacific Islander,,,,,97
-2017,,,White,,,,,6029
-2017,,,Multi-Racial/Other,,,,,624
-2017,,,,under 18,,,,2753
-2017,,,,18-24,,,,2182
-2017,,,,25-54,,,,20384
-2017,,,,55-61,,,,5409
-2017,,,,62 and over,,,,2409
-2017,,,,,,substance use disorder,,6194
-2017,,,,,,HIV/AIDS,,914
-2017,,,,,,serious mental illness,,10327
-2017,,,,,,developmental disability,,2062
-2017,,,,,,physical disability,,5953
-2017,,,,,,,Domestic/Intimate Partner Violence Experience,10923
-2016,,,,,,,,28464
-2016,sheltered,,,,,,,7126
-2016,unsheltered,,,,,,,21338
-2016,,male,,,,,,18870
-2016,,female,,,,,,9271
-2016,,transgender,,,,,,323
-2016,,gender non-conforming,,,,,,
-2016,,,American Indian/ Alaska Native,,,,,505
-2016,,,Asian,,,,,346
-2016,,,Black/ African American,,,,,12164
-2016,,,Hispanic/ Latino,,,,,7369
-2016,,,Native Hawaiian/ Other Pacific Islander,,,,,157
-2016,,,White,,,,,6849
-2016,,,Multi-Racial/Other,,,,,1074
-2016,,,,under 18,,,,2128
-2016,,,,18-24,,,,2180
-2016,,,,25-54,,,,16621
-2016,,,,55-61,,,,4815
-2016,,,,62 and over,,,,2720
-2016,,,,,,substance use disorder,,6538
-2016,,,,,,HIV/AIDS,,483
-2016,,,,,,serious mental illness,,8899
-2016,,,,,,developmental disability,,5308
-2016,,,,,,physical disability,,
-2016,,,,,,,Domestic/Intimate Partner Violence Experience,4938
-2016,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,
+Year,Sheltered/Unsheltered,Gender,Race/Ethnicity,Age,Sexual Orientation,Health/Disability,Domestic Violence,Units,Value
+2019,,,,,,,,Percent of Total Population,
+2019,,,,,,,,Total by Sheltered/Unsheltered,36165
+2019,sheltered,,,,,,,Total by Sheltered/Unsheltered,8944
+2019,unsheltered,,,,,,,Total by Sheltered/Unsheltered,27221
+2019,,,,,,,,Total by Gender,36165
+2019,,male,,,,,,Total by Gender,24360
+2019,,female,,,,,,Total by Gender,10845
+2019,,transgender,,,,,,Total by Gender,810
+2019,,gender non-conforming,,,,,,Total by Gender,150
+2019,,,,,,,,Total by Race/ Ethnicity,36165
+2019,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,530
+2019,,,Asian,,,,,Total by Race/ Ethnicity,299
+2019,,,Black/ African American,,,,,Total by Race/ Ethnicity,13629
+2019,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,12403
+2019,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,100
+2019,,,White,,,,,Total by Race/ Ethnicity,8223
+2019,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,981
+2019,,,,,,,,Total by Age Group,36165
+2019,,,,under 18,,,,Total by Age Group,3305
+2019,,,,18-24,,,,Total by Age Group,2272
+2019,,,,25-54,,,,Total by Age Group,21788
+2019,,,,55-61,,,,Total by Age Group,5654
+2019,,,,62 and over,,,,Total by Age Group,3146
+2019,,,,,,,,Total by Sexual Orientation,36165
+2019,,,,,straight,,,Total by Sexual Orientation,32487
+2019,,,,,gay or lesbian,,,Total by Sexual Orientation,1401
+2019,,,,,bisexual,,,Total by Sexual Orientation,1438
+2019,,,,,sexual orientation non-conforming,,,Total by Sexual Orientation,839
+2019,,,,,,,,Total by Health/ Disability,36165
+2019,,,,,,substance use disorder,,Total by Health/ Disability,4888
+2019,,,,,,HIV/AIDS,,Total by Health/ Disability,867
+2019,,,,,,serious mental illness,,Total by Health/ Disability,8785
+2019,,,,,,developmental disability,,Total by Health/ Disability,3079
+2019,,,,,,physical disability,,Total by Health/ Disability,6095
+2019,,,,,,,,Total by DV/IPV,36165
+2019,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,12860
+2019,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,Total by DV/IPV,1873
+2018,,,,,,,,Percent of Total Population,0.78
+2018,,,,,,,,Total by Sheltered/Unsheltered,31285
+2018,sheltered,,,,,,,Total by Sheltered/Unsheltered,8398
+2018,unsheltered,,,,,,,Total by Sheltered/Unsheltered,22887
+2018,,,,,,,,Total by Gender,31285
+2018,,male,,,,,,Total by Gender,20907
+2018,,female,,,,,,Total by Gender,9577
+2018,,transgender,,,,,,Total by Gender,688
+2018,,gender non-conforming,,,,,,Total by Gender,113
+2018,,,,,,,,Total by Race/ Ethnicity,31285
+2018,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,324
+2018,,,Asian,,,,,Total by Race/ Ethnicity,352
+2018,,,Black/ African American,,,,,Total by Race/ Ethnicity,12235
+2018,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,10813
+2018,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,77
+2018,,,White,,,,,Total by Race/ Ethnicity,6978
+2018,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,506
+2018,,,,,,,,Total by Age Group,31285
+2018,,,,under 18,,,,Total by Age Group,3022
+2018,,,,18-24,,,,Total by Age Group,2052
+2018,,,,25-54,,,,Total by Age Group,18446
+2018,,,,55-61,,,,Total by Age Group,4755
+2018,,,,62 and over,,,,Total by Age Group,3010
+2018,,,,,,,,Total by Health/ Disability,31285
+2018,,,,,,substance use disorder,,Total by Health/ Disability,4738
+2018,,,,,,HIV/AIDS,,Total by Health/ Disability,588
+2018,,,,,,serious mental illness,,Total by Health/ Disability,7843
+2018,,,,,,developmental disability,,Total by Health/ Disability,1764
+2018,,,,,,physical disability,,Total by Health/ Disability,4391
+2018,,,,,,,,Total by DV/IPV,31285
+2018,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,9088
+2018,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,Total by DV/IPV,1913
+2017,,,,,,,,Percent of Total Population,0.83
+2017,,,,,,,,Total by Sheltered/Unsheltered,33138
+2017,sheltered,,,,,,,Total by Sheltered/Unsheltered,8952
+2017,unsheltered,,,,,,,Total by Sheltered/Unsheltered,24186
+2017,,,,,,,,Total by Gender,33138
+2017,,male,,,,,,Total by Gender,22297
+2017,,female,,,,,,Total by Gender,10387
+2017,,transgender,,,,,,Total by Gender,363
+2017,,gender non-conforming,,,,,,Total by Gender,90
+2017,,,,,,,,Total by Race/ Ethnicity,33138
+2017,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,319
+2017,,,Asian,,,,,Total by Race/ Ethnicity,283
+2017,,,Black/ African American,,,,,Total by Race/ Ethnicity,15607
+2017,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,10177
+2017,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,97
+2017,,,White,,,,,Total by Race/ Ethnicity,6029
+2017,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,624
+2017,,,,,,,,Total by Age Group,33138
+2017,,,,under 18,,,,Total by Age Group,2753
+2017,,,,18-24,,,,Total by Age Group,2182
+2017,,,,25-54,,,,Total by Age Group,20384
+2017,,,,55-61,,,,Total by Age Group,5409
+2017,,,,62 and over,,,,Total by Age Group,2409
+2017,,,,,,,,Total by Health/ Disability,33138
+2017,,,,,,substance use disorder,,Total by Health/ Disability,6194
+2017,,,,,,HIV/AIDS,,Total by Health/ Disability,914
+2017,,,,,,serious mental illness,,Total by Health/ Disability,10327
+2017,,,,,,developmental disability,,Total by Health/ Disability,2062
+2017,,,,,,physical disability,,Total by Health/ Disability,5953
+2017,,,,,,,,Total by DV/IPV,33138
+2017,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,10923
+2016,,,,,,,,Percent of Total Population,0.72
+2016,,,,,,,,Total by Sheltered/Unsheltered,28464
+2016,sheltered,,,,,,,Total by Sheltered/Unsheltered,7126
+2016,unsheltered,,,,,,,Total by Sheltered/Unsheltered,21338
+2016,,,,,,,,Total by Gender,28464
+2016,,male,,,,,,Total by Gender,18870
+2016,,female,,,,,,Total by Gender,9271
+2016,,transgender,,,,,,Total by Gender,323
+2016,,gender non-conforming,,,,,,Total by Gender,
+2016,,,,,,,,Total by Race/ Ethnicity,28464
+2016,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,505
+2016,,,Asian,,,,,Total by Race/ Ethnicity,346
+2016,,,Black/ African American,,,,,Total by Race/ Ethnicity,12164
+2016,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,7369
+2016,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,157
+2016,,,White,,,,,Total by Race/ Ethnicity,6849
+2016,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,1074
+2016,,,,,,,,Total by Age Group,28464
+2016,,,,under 18,,,,Total by Age Group,2128
+2016,,,,18-24,,,,Total by Age Group,2180
+2016,,,,25-54,,,,Total by Age Group,16621
+2016,,,,55-61,,,,Total by Age Group,4815
+2016,,,,62 and over,,,,Total by Age Group,2720
+2016,,,,,,,,Total by Health/ Disability,28464
+2016,,,,,,substance use disorder,,Total by Health/ Disability,6538
+2016,,,,,,HIV/AIDS,,Total by Health/ Disability,483
+2016,,,,,,serious mental illness,,Total by Health/ Disability,8899
+2016,,,,,,developmental disability,,Total by Health/ Disability,5308
+2016,,,,,,physical disability,,Total by Health/ Disability,
+2016,,,,,,,,Total by DV/IPV,28464
+2016,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,4938
+2016,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,Total by DV/IPV,
