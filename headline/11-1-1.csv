@@ -1,5 +1,30 @@
-Year,Value
-2019,36165.0
-2018,31285.0
-2017,33138.0
-2016,28464.0
+Year,Units,Value
+2019,Percent of Total Population,
+2019,Total by Sheltered/Unsheltered,36165.0
+2019,Total by Gender,36165.0
+2019,Total by Race/ Ethnicity,36165.0
+2019,Total by Age Group,36165.0
+2019,Total by Sexual Orientation,36165.0
+2019,Total by Health/ Disability,36165.0
+2019,Total by DV/IPV,36165.0
+2018,Percent of Total Population,0.78
+2018,Total by Sheltered/Unsheltered,31285.0
+2018,Total by Gender,31285.0
+2018,Total by Race/ Ethnicity,31285.0
+2018,Total by Age Group,31285.0
+2018,Total by Health/ Disability,31285.0
+2018,Total by DV/IPV,31285.0
+2017,Percent of Total Population,0.83
+2017,Total by Sheltered/Unsheltered,33138.0
+2017,Total by Gender,33138.0
+2017,Total by Race/ Ethnicity,33138.0
+2017,Total by Age Group,33138.0
+2017,Total by Health/ Disability,33138.0
+2017,Total by DV/IPV,33138.0
+2016,Percent of Total Population,0.72
+2016,Total by Sheltered/Unsheltered,28464.0
+2016,Total by Gender,28464.0
+2016,Total by Race/ Ethnicity,28464.0
+2016,Total by Age Group,28464.0
+2016,Total by Health/ Disability,28464.0
+2016,Total by DV/IPV,28464.0
