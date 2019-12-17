@@ -1,17 +1,17 @@
-Year,Country Group,Imports/Exports,Value
-2017,developed,exports,43613716123
-2017,developing,exports,83413014490
-2017,LDC,exports,443474454
-2017,transition,exports,552452185
-2017,developed,imports,53856312016
-2017,developing,imports,2.43573E+11
-2017,LDC,imports,3291052741
-2017,transition,imports,1494367182
-2018,developed,exports,44237808382
-2018,developing,exports,84575522829
-2018,LDC,exports,556942267
-2018,transition,exports,620424852
-2018,developed,imports,55811829514
-2018,developing,imports,2.7038E+11
-2018,LDC,imports,3648315435
-2018,transition,imports,1214560240
+Year,Country Group,Unit,Value
+2017,developed,Exports,43613716123
+2017,developing,Exports,83413014490
+2017,LDC,Exports,443474454
+2017,transition,Exports,552452185
+2017,developed,Imports,53856312016
+2017,developing,Imports,2.43573E+11
+2017,LDC,Imports,3291052741
+2017,transition,Imports,1494367182
+2018,developed,Exports,44237808382
+2018,developing,Exports,84575522829
+2018,LDC,Exports,556942267
+2018,transition,Exports,620424852
+2018,developed,Imports,55811829514
+2018,developing,Imports,2.7038E+11
+2018,LDC,Imports,3648315435
+2018,transition,Imports,1214560240

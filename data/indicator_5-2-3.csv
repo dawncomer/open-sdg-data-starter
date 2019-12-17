@@ -1,0 +1,29 @@
+Year,Crime Type,Age Range,Value
+2015,,,15
+2015,,Under 15,1
+2015,Human trafficking - commercial sex acts,Under 15,1
+2015,Human trafficking - involuntary serviture,Under 15,0
+2015,,15 and over,14
+2015,Human trafficking - commercial sex acts,15 and over,12
+2015,Human trafficking - involuntary serviture,15 and over,2
+2016,,,112
+2016,,Under 15,9
+2016,Human trafficking - commercial sex acts,Under 15,8
+2016,Human trafficking - involuntary serviture,Under 15,1
+2016,,15 and over,103
+2016,Human trafficking - commercial sex acts,15 and over,80
+2016,Human trafficking - involuntary serviture,15 and over,23
+2017,,,127
+2017,,Under 15,22
+2017,Human trafficking - commercial sex acts,Under 15,22
+2017,Human trafficking - involuntary serviture,Under 15,0
+2017,,15 and over,105
+2017,Human trafficking - commercial sex acts,15 and over,77
+2017,Human trafficking - involuntary serviture,15 and over,28
+2018,,,138
+2018,,Under 15,15
+2018,Human trafficking - commercial sex acts,Under 15,13
+2018,Human trafficking - involuntary serviture,Under 15,2
+2018,,15 and over,123
+2018,Human trafficking - commercial sex acts,15 and over,107
+2018,Human trafficking - involuntary serviture,15 and over,16
