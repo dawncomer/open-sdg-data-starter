@@ -1,56 +1,152 @@
-Year,Type of Child Care,Value
-2011,Grandparent or family member,24.7
-2012,Grandparent or family member,23.6
-2013,Grandparent or family member,22.4
-2014,Grandparent or family member,30.0
-2015,Grandparent or family member,36.5
-2016,Grandparent or family member,24.1
-2017,Grandparent or family member,16.4
-2018,Grandparent or family member,20.0
-2011,Head Start / state program,2.9
-2012,Head Start / state program,6.2
-2013,Head Start / state program,2.4
-2012,Preschool or nursery school,1.1
-2013,Preschool or nursery school,2.4
-2015,Preschool or nursery school,2.8
-2018,Preschool or nursery school,1.8
-2011,Childcare center,17.1
-2012,Childcare center,7.9
-2013,Childcare center,4.4
-2014,Childcare center,13.4
-2015,Childcare center,15.3
-2016,Childcare center,10.0
-2017,Childcare center,11.2
-2018,Childcare center,13.8
-2011,Non-family member in own home,4.6
-2012,Non-family member in own home,12.4
-2013,Non-family member in own home,1.3
-2014,Non-family member in own home,3.1
-2015,Non-family member in own home,1.2
-2016,Non-family member in own home,4.5
-2017,Non-family member in own home,11.2
-2018,Non-family member in own home,6.3
-2011,Non-family member in his/her own home,8.7
-2012,Non-family member in his/her own home,4.6
-2013,Non-family member in his/her own home,10.6
-2014,Non-family member in his/her own home,2.1
-2015,Non-family member in his/her own home,3.2
-2016,Non-family member in his/her own home,4.7
-2017,Non-family member in his/her own home,4.4
-2018,Non-family member in his/her own home,5.2
-2011,Other one source,7.9
-2012,Other one source,1.8
-2013,Other one source,0.9
-2014,Other one source,6.3
-2015,Other one source,2.7
-2016,Other one source,4.2
-2017,Other one source,4.6
-2018,Other one source,8.6
-2011,More than one source,31.8
-2012,More than one source,42.4
-2013,More than one source,55.5
-2014,More than one source,41.5
-2015,More than one source,37.8
-2016,More than one source,51.5
-2017,More than one source,50.4
-2018,More than one source,41.0
+Year,Type of Child Care,Units,Value
+2011,Grandparent or family member,By Type of Child Care,24.7
+2012,Grandparent or family member,By Type of Child Care,23.6
+2013,Grandparent or family member,By Type of Child Care,22.4
+2014,Grandparent or family member,By Type of Child Care,30.0
+2015,Grandparent or family member,By Type of Child Care,36.5
+2016,Grandparent or family member,By Type of Child Care,24.1
+2017,Grandparent or family member,By Type of Child Care,16.4
+2018,Grandparent or family member,By Type of Child Care,20.0
+2011,Head Start / state program,By Type of Child Care,2.9
+2012,Head Start / state program,By Type of Child Care,6.2
+2013,Head Start / state program,By Type of Child Care,2.4
+2012,Preschool or nursery school,By Type of Child Care,1.1
+2013,Preschool or nursery school,By Type of Child Care,2.4
+2015,Preschool or nursery school,By Type of Child Care,2.8
+2018,Preschool or nursery school,By Type of Child Care,1.8
+2011,Childcare center,By Type of Child Care,17.1
+2012,Childcare center,By Type of Child Care,7.9
+2013,Childcare center,By Type of Child Care,4.4
+2014,Childcare center,By Type of Child Care,13.4
+2015,Childcare center,By Type of Child Care,15.3
+2016,Childcare center,By Type of Child Care,10.0
+2017,Childcare center,By Type of Child Care,11.2
+2018,Childcare center,By Type of Child Care,13.8
+2011,Non-family member in own home,By Type of Child Care,4.6
+2012,Non-family member in own home,By Type of Child Care,12.4
+2013,Non-family member in own home,By Type of Child Care,1.3
+2014,Non-family member in own home,By Type of Child Care,3.1
+2015,Non-family member in own home,By Type of Child Care,1.2
+2016,Non-family member in own home,By Type of Child Care,4.5
+2017,Non-family member in own home,By Type of Child Care,11.2
+2018,Non-family member in own home,By Type of Child Care,6.3
+2011,Non-family member in his/her own home,By Type of Child Care,8.7
+2012,Non-family member in his/her own home,By Type of Child Care,4.6
+2013,Non-family member in his/her own home,By Type of Child Care,10.6
+2014,Non-family member in his/her own home,By Type of Child Care,2.1
+2015,Non-family member in his/her own home,By Type of Child Care,3.2
+2016,Non-family member in his/her own home,By Type of Child Care,4.7
+2017,Non-family member in his/her own home,By Type of Child Care,4.4
+2018,Non-family member in his/her own home,By Type of Child Care,5.2
+2011,Other one source,By Type of Child Care,7.9
+2012,Other one source,By Type of Child Care,1.8
+2013,Other one source,By Type of Child Care,0.9
+2014,Other one source,By Type of Child Care,6.3
+2015,Other one source,By Type of Child Care,2.7
+2016,Other one source,By Type of Child Care,4.2
+2017,Other one source,By Type of Child Care,4.6
+2018,Other one source,By Type of Child Care,8.6
+2011,More than one source,By Type of Child Care,31.8
+2012,More than one source,By Type of Child Care,42.4
+2013,More than one source,By Type of Child Care,55.5
+2014,More than one source,By Type of Child Care,41.5
+2015,More than one source,By Type of Child Care,37.8
+2016,More than one source,By Type of Child Care,51.5
+2017,More than one source,By Type of Child Care,50.4
+2018,More than one source,By Type of Child Care,41.0
+2011,,Difficulty Finding Child Care By Race/ Ethnicity,
+2012,,Difficulty Finding Child Care By Race/ Ethnicity,
+2013,,Difficulty Finding Child Care By Race/ Ethnicity,
+2014,,Difficulty Finding Child Care By Race/ Ethnicity,
+2015,,Difficulty Finding Child Care By Race/ Ethnicity,
+2016,,Difficulty Finding Child Care By Race/ Ethnicity,
+2017,,Difficulty Finding Child Care By Race/ Ethnicity,
+2018,,Difficulty Finding Child Care By Race/ Ethnicity,
+2011,,Difficulty Finding Child Care By Race/ Ethnicity,
+2012,,Difficulty Finding Child Care By Race/ Ethnicity,
+2013,,Difficulty Finding Child Care By Race/ Ethnicity,
+2014,,Difficulty Finding Child Care By Race/ Ethnicity,
+2015,,Difficulty Finding Child Care By Race/ Ethnicity,
+2016,,Difficulty Finding Child Care By Race/ Ethnicity,
+2017,,Difficulty Finding Child Care By Race/ Ethnicity,
+2018,,Difficulty Finding Child Care By Race/ Ethnicity,
+2011,,Difficulty Finding Child Care By Race/ Ethnicity,
+2012,,Difficulty Finding Child Care By Race/ Ethnicity,
+2013,,Difficulty Finding Child Care By Race/ Ethnicity,
+2014,,Difficulty Finding Child Care By Race/ Ethnicity,
+2015,,Difficulty Finding Child Care By Race/ Ethnicity,
+2016,,Difficulty Finding Child Care By Race/ Ethnicity,
+2017,,Difficulty Finding Child Care By Race/ Ethnicity,
+2018,,Difficulty Finding Child Care By Race/ Ethnicity,
+2011,,Difficulty Finding Child Care By Race/ Ethnicity,
+2012,,Difficulty Finding Child Care By Race/ Ethnicity,
+2013,,Difficulty Finding Child Care By Race/ Ethnicity,
+2014,,Difficulty Finding Child Care By Race/ Ethnicity,
+2015,,Difficulty Finding Child Care By Race/ Ethnicity,
+2016,,Difficulty Finding Child Care By Race/ Ethnicity,
+2017,,Difficulty Finding Child Care By Race/ Ethnicity,
+2018,,Difficulty Finding Child Care By Race/ Ethnicity,
+2011,,Difficulty Finding Child Care By Education,
+2012,,Difficulty Finding Child Care By Education,
+2013,,Difficulty Finding Child Care By Education,
+2014,,Difficulty Finding Child Care By Education,
+2015,,Difficulty Finding Child Care By Education,
+2016,,Difficulty Finding Child Care By Education,
+2017,,Difficulty Finding Child Care By Education,
+2018,,Difficulty Finding Child Care By Education,
+2011,,Difficulty Finding Child Care By Education,
+2012,,Difficulty Finding Child Care By Education,
+2013,,Difficulty Finding Child Care By Education,
+2014,,Difficulty Finding Child Care By Education,
+2015,,Difficulty Finding Child Care By Education,
+2016,,Difficulty Finding Child Care By Education,
+2017,,Difficulty Finding Child Care By Education,
+2018,,Difficulty Finding Child Care By Education,
+2011,,Difficulty Finding Child Care By Education,
+2012,,Difficulty Finding Child Care By Education,
+2013,,Difficulty Finding Child Care By Education,
+2014,,Difficulty Finding Child Care By Education,
+2015,,Difficulty Finding Child Care By Education,
+2016,,Difficulty Finding Child Care By Education,
+2017,,Difficulty Finding Child Care By Education,
+2018,,Difficulty Finding Child Care By Education,
+2011,,Difficulty Finding Child Care By Education,
+2012,,Difficulty Finding Child Care By Education,
+2013,,Difficulty Finding Child Care By Education,
+2014,,Difficulty Finding Child Care By Education,
+2015,,Difficulty Finding Child Care By Education,
+2016,,Difficulty Finding Child Care By Education,
+2017,,Difficulty Finding Child Care By Education,
+2018,,Difficulty Finding Child Care By Education,
+2011,,Difficulty Finding Child Care By Federal Poverty Level,
+2012,,Difficulty Finding Child Care By Federal Poverty Level,
+2013,,Difficulty Finding Child Care By Federal Poverty Level,
+2014,,Difficulty Finding Child Care By Federal Poverty Level,
+2015,,Difficulty Finding Child Care By Federal Poverty Level,
+2016,,Difficulty Finding Child Care By Federal Poverty Level,
+2017,,Difficulty Finding Child Care By Federal Poverty Level,
+2018,,Difficulty Finding Child Care By Federal Poverty Level,
+2011,,Difficulty Finding Child Care By Federal Poverty Level,
+2012,,Difficulty Finding Child Care By Federal Poverty Level,
+2013,,Difficulty Finding Child Care By Federal Poverty Level,
+2014,,Difficulty Finding Child Care By Federal Poverty Level,
+2015,,Difficulty Finding Child Care By Federal Poverty Level,
+2016,,Difficulty Finding Child Care By Federal Poverty Level,
+2017,,Difficulty Finding Child Care By Federal Poverty Level,
+2018,,Difficulty Finding Child Care By Federal Poverty Level,
+2011,,Difficulty Finding Child Care By Federal Poverty Level,
+2012,,Difficulty Finding Child Care By Federal Poverty Level,
+2013,,Difficulty Finding Child Care By Federal Poverty Level,
+2014,,Difficulty Finding Child Care By Federal Poverty Level,
+2015,,Difficulty Finding Child Care By Federal Poverty Level,
+2016,,Difficulty Finding Child Care By Federal Poverty Level,
+2017,,Difficulty Finding Child Care By Federal Poverty Level,
+2018,,Difficulty Finding Child Care By Federal Poverty Level,
+2011,,Difficulty Finding Child Care By Federal Poverty Level,
+2012,,Difficulty Finding Child Care By Federal Poverty Level,
+2013,,Difficulty Finding Child Care By Federal Poverty Level,
+2014,,Difficulty Finding Child Care By Federal Poverty Level,
+2015,,Difficulty Finding Child Care By Federal Poverty Level,
+2016,,Difficulty Finding Child Care By Federal Poverty Level,
+2017,,Difficulty Finding Child Care By Federal Poverty Level,
+2018,,Difficulty Finding Child Care By Federal Poverty Level,
