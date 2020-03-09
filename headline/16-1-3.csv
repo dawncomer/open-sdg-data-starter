@@ -1,13 +1,31 @@
-Year,Value
-2007,27806
-2008,26553
-2009,24070
-2010,21484
-2011,20045
-2012,18547
-2013,16524
-2014,19171
-2015,25157
-2016,28818
-2017,30508
-2018,29145
+Year,Units,Value
+2010,Total,22348
+2011,Total,21059
+2012,Total,19634
+2013,Total,17899
+2014,Total,20387
+2015,Total,25652
+2016,Total,28778
+2017,Total,30355
+2018,Total,29954
+2019,Total,29240
+2010,Total by Gender,22348
+2011,Total by Gender,21059
+2012,Total by Gender,19634
+2013,Total by Gender,17899
+2014,Total by Gender,20387
+2015,Total by Gender,25652
+2016,Total by Gender,28778
+2017,Total by Gender,30355
+2018,Total by Gender,29954
+2019,Total by Gender,29240
+2010,Total by Race/ Ethnicity,22348
+2011,Total by Race/ Ethnicity,21059
+2012,Total by Race/ Ethnicity,19634
+2013,Total by Race/ Ethnicity,17899
+2014,Total by Race/ Ethnicity,20387
+2015,Total by Race/ Ethnicity,25652
+2016,Total by Race/ Ethnicity,28778
+2017,Total by Race/ Ethnicity,30355
+2018,Total by Race/ Ethnicity,29954
+2019,Total by Race/ Ethnicity,29240
