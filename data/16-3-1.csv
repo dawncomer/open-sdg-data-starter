@@ -1,4 +1,4 @@
-Year,Gender,Unnamed: 2,Units,Value
+Year,Gender,Race/ Ethnicity,Units,Value
 2010,,,Total,22348
 2011,,,Total,21059
 2012,,,Total,19634
@@ -9,6 +9,26 @@ Year,Gender,Unnamed: 2,Units,Value
 2017,,,Total,30355
 2018,,,Total,29954
 2019,,,Total,29240
+2010,,,Total by Gender,22348
+2011,,,Total by Gender,21059
+2012,,,Total by Gender,19634
+2013,,,Total by Gender,17899
+2014,,,Total by Gender,20387
+2015,,,Total by Gender,25652
+2016,,,Total by Gender,28778
+2017,,,Total by Gender,30355
+2018,,,Total by Gender,29954
+2019,,,Total by Gender,29240
+2010,,,Total by Race/ Ethnicity,22348
+2011,,,Total by Race/ Ethnicity,21059
+2012,,,Total by Race/ Ethnicity,19634
+2013,,,Total by Race/ Ethnicity,17899
+2014,,,Total by Race/ Ethnicity,20387
+2015,,,Total by Race/ Ethnicity,25652
+2016,,,Total by Race/ Ethnicity,28778
+2017,,,Total by Race/ Ethnicity,30355
+2018,,,Total by Race/ Ethnicity,29954
+2019,,,Total by Race/ Ethnicity,29240
 2010,Female,,Total by Gender,7220
 2011,Female,,Total by Gender,7195
 2012,Female,,Total by Gender,6760
