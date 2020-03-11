@@ -1,9 +1,25 @@
-Year,Value
-2011,0.054000000000000006
-2012,0.059000000000000004
-2013,0.055
-2014,0.052000000000000005
-2015,0.045
-2016,0.037000000000000005
-2017,0.032
-2018,0.026000000000000002
+Year,Units,Value
+2011,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.054000000000000006
+2012,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.059000000000000004
+2013,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.055
+2014,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.052000000000000005
+2015,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.045
+2016,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.037000000000000005
+2017,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.032
+2018,"Agriculture, forestry, fishing and hunting as a proportion of total regional GDP",0.026000000000000002
+2011,Commercial Landings Poundage (Pounds),158129849.0
+2012,Commercial Landings Poundage (Pounds),162739931.0
+2013,Commercial Landings Poundage (Pounds),115623747.0
+2014,Commercial Landings Poundage (Pounds),55862018.0
+2015,Commercial Landings Poundage (Pounds),15082154.0
+2016,Commercial Landings Poundage (Pounds),36743539.0
+2017,Commercial Landings Poundage (Pounds),43554835.0
+2018,Commercial Landings Poundage (Pounds),29312445.0
+2011,Commercial Landings Value (Dollars),43846470.0
+2012,Commercial Landings Value (Dollars),47336390.0
+2013,Commercial Landings Value (Dollars),37420884.0
+2014,Commercial Landings Value (Dollars),24312130.0
+2015,Commercial Landings Value (Dollars),11698705.0
+2016,Commercial Landings Value (Dollars),21321705.0
+2017,Commercial Landings Value (Dollars),29197248.0
+2018,Commercial Landings Value (Dollars),21975766.0
