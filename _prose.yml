@@ -82,6 +82,11 @@ prose:
             element: text
             label: "Indicator description"
             scope: national
+      - name: "national_target_line"
+        field:
+            element: text
+            label: "Target line"
+            scope: national
       - name: "national_geographical_coverage"
         field:
             element: text
