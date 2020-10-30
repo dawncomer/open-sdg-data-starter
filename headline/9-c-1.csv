@@ -1,3 +1,11 @@
-Year,Value
-2015,2
-2016,2
+Year,Units,Value
+2015,Percent by age,78.1
+2015,Percent by race/ ethnicity,78.1
+2016,Percent by age,83.1
+2016,Percent by race/ ethnicity,83.1
+2017,Percent by age,87.0
+2017,Percent by race/ ethnicity,87.0
+2018,Percent by age,88.3
+2018,Percent by race/ ethnicity,88.3
+2019,Percent by age,90.4
+2019,Percent by race/ ethnicity,90.4
