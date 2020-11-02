@@ -1,13 +1,4 @@
-Year,Units,Value
-2003,Acres,364527.0
-2003,Cost ($B),2.5
-2003,Structures,3823.0
-2006,Acres,40200.0
-2006,Cost ($B),1.0
-2006,Structures,5.0
-2017,Acres,318700.0
-2017,Cost ($B),3.5
-2017,Structures,6706.0
-2018,Acres,479936.0
-2018,Cost ($B),24.2
-2018,Structures,22061.0
+Year,Value
+1990-1999,16.1
+2000-2009,2.6
+2010-2017,1.1
