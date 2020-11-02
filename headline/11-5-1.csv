@@ -1,6 +1,7 @@
-Year,Value
-2003,21
-2006,5
-2008,10
-2017,60
-2018,96
+Year,Units,Value
+1990-1999,Deaths,224
+1990-1999,Injuries,15592
+2000-2009,Deaths,59
+2000-2009,Injuries,885
+2010-2017,Deaths,92
+2010-2017,Injuries,27
