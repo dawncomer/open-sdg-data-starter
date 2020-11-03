@@ -1,13 +1,21 @@
-Year,Value
-2007,395
-2008,384
-2009,312
-2010,293
-2011,297
-2012,299
-2013,251
-2014,260
-2015,283
-2016,294
-2017,282
-2018,259
+Year,Units,Value
+2010,Homicides by victim gender,295
+2011,Homicides by victim gender,298
+2012,Homicides by victim gender,298
+2013,Homicides by victim gender,251
+2014,Homicides by victim gender,260
+2015,Homicides by victim gender,282
+2016,Homicides by victim gender,295
+2017,Homicides by victim gender,281
+2018,Homicides by victim gender,259
+2019,Homicides by victim gender,255
+2010,Homicides by victim descent,295
+2011,Homicides by victim descent,298
+2012,Homicides by victim descent,298
+2013,Homicides by victim descent,251
+2014,Homicides by victim descent,260
+2015,Homicides by victim descent,282
+2016,Homicides by victim descent,295
+2017,Homicides by victim descent,281
+2018,Homicides by victim descent,259
+2019,Homicides by victim descent,255
