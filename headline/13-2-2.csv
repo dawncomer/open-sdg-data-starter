@@ -1,3 +1,16 @@
-Year,Value
-2015,2
-2016,2
+Year,Units,Value
+2017,total emissions by sector (metric tons of CO2eq),38487602.0
+2016,total emissions by sector (metric tons of CO2eq),38326199.0
+2015,total emissions by sector (metric tons of CO2eq),41274115.0
+2014,total emissions by sector (metric tons of CO2eq),41521058.0
+2013,total emissions by sector (metric tons of CO2eq),37589170.0
+2017,total emissions per capita (metric tons per capita),9.62
+2016,total emissions per capita (metric tons per capita),9.64
+2015,total emissions per capita (metric tons per capita),10.39
+2014,total emissions per capita (metric tons per capita),10.57
+2013,total emissions per capita (metric tons per capita),9.68
+2017,total emissions per GDP (metric tons per millions of current dollars),36.87
+2016,total emissions per GDP (metric tons per millions of current dollars),38.46
+2015,total emissions per GDP (metric tons per millions of current dollars),42.68
+2014,total emissions per GDP (metric tons per millions of current dollars),46.03
+2013,total emissions per GDP (metric tons per millions of current dollars),44.12
