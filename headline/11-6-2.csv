@@ -1,11 +1,15 @@
 Year,Units,Value
-2013,Fine Particulates PM2.5,11.14
-2014,Fine Particulates PM2.5,11.54
-2015,Fine Particulates PM2.5,10.79
-2016,Fine Particulates PM2.5,10.63
-2017,Fine Particulates PM2.5,11.3
-2013,Fine Particulates PM10 Sulfate,4.94
-2014,Fine Particulates PM10 Sulfate,7.2
-2015,Fine Particulates PM10 Sulfate,8.68
-2016,Fine Particulates PM10 Sulfate,6.55
-2017,Fine Particulates PM10 Sulfate,4.27
+2013,Fine Particulates PM2.5,11.95
+2013,Suspended Particulates PM10,29.5
+2014,Fine Particulates PM2.5,12.36
+2014,Suspended Particulates PM10,35.4
+2015,Fine Particulates PM2.5,12.38
+2015,Suspended Particulates PM10,33.0
+2016,Fine Particulates PM2.5,11.83
+2016,Suspended Particulates PM10,32.4
+2017,Fine Particulates PM2.5,11.94
+2017,Suspended Particulates PM10,34.4
+2018,Fine Particulates PM2.5,12.58
+2018,Suspended Particulates PM10,34.1
+2019,Fine Particulates PM2.5,10.85
+2019,Suspended Particulates PM10,25.5
