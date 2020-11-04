@@ -1,3 +1,18 @@
-Year,Value
-2015,2
-2016,2
+Year,Units,Value
+2015,Percentage by Age,80.8
+2015,Percentage by Race,80.8
+2015,Percentage by Education,80.8
+2015,Percentage by Employment,80.8
+2016,Percentage by Age,85.2
+2016,Percentage by Race,85.2
+2016,Percentage by Education,85.2
+2016,Percentage by Employment,85.2
+2017,Percentage by Age,87.0
+2017,Percentage by Race,87.0
+2017,Percentage by Education,87.0
+2017,Percentage by Employment,87.0
+2018,Percentage by Age,88.3
+2018,Percentage by Race,88.3
+2018,Percentage by Education,88.3
+2018,Percentage by Employment,88.3
+2018,Percentage by Employment,
