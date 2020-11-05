@@ -7,27 +7,27 @@ Year,Gender,Units,Value
 2014,,Percent Female in Management Occupations,41.0
 2013,,Percent Female in Management Occupations,41.2
 2012,,Percent Female in Management Occupations,41.3
-2019,,Median Earnings,72359.0
-2019,Male,Median Earnings,80321.0
-2019,Female,Median Earnings,66552.0
-2018,,Median Earnings,71171.0
-2018,Male,Median Earnings,77251.0
-2018,Female,Median Earnings,62196.0
-2017,,Median Earnings,70407.0
-2017,Male,Median Earnings,80530.0
-2017,Female,Median Earnings,60076.0
-2016,,Median Earnings,65378.0
-2016,Male,Median Earnings,70024.0
-2016,Female,Median Earnings,61299.0
-2015,,Median Earnings,62353.0
-2015,Male,Median Earnings,67855.0
-2015,Female,Median Earnings,57486.0
-2014,,Median Earnings,61487.0
-2014,Male,Median Earnings,70225.0
-2014,Female,Median Earnings,55692.0
-2013,,Median Earnings,61927.0
-2013,Male,Median Earnings,66106.0
-2013,Female,Median Earnings,60395.0
-2012,,Median Earnings,58705.0
-2012,Male,Median Earnings,61260.0
-2012,Female,Median Earnings,52481.0
+2019,,(subindicator) Median Earnings,72359.0
+2019,Male,(subindicator) Median Earnings,80321.0
+2019,Female,(subindicator) Median Earnings,66552.0
+2018,,(subindicator) Median Earnings,71171.0
+2018,Male,(subindicator) Median Earnings,77251.0
+2018,Female,(subindicator) Median Earnings,62196.0
+2017,,(subindicator) Median Earnings,70407.0
+2017,Male,(subindicator) Median Earnings,80530.0
+2017,Female,(subindicator) Median Earnings,60076.0
+2016,,(subindicator) Median Earnings,65378.0
+2016,Male,(subindicator) Median Earnings,70024.0
+2016,Female,(subindicator) Median Earnings,61299.0
+2015,,(subindicator) Median Earnings,62353.0
+2015,Male,(subindicator) Median Earnings,67855.0
+2015,Female,(subindicator) Median Earnings,57486.0
+2014,,(subindicator) Median Earnings,61487.0
+2014,Male,(subindicator) Median Earnings,70225.0
+2014,Female,(subindicator) Median Earnings,55692.0
+2013,,(subindicator) Median Earnings,61927.0
+2013,Male,(subindicator) Median Earnings,66106.0
+2013,Female,(subindicator) Median Earnings,60395.0
+2012,,(subindicator) Median Earnings,58705.0
+2012,Male,(subindicator) Median Earnings,61260.0
+2012,Female,(subindicator) Median Earnings,52481.0
