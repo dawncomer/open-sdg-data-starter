@@ -153,6 +153,8 @@ prose:
                 value: 'New'
               - name: 'Not Applicable'
                 value: 'Not Applicable'
+              - name: 'Non-Statistical'
+                value: 'Non-Statistical'
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
