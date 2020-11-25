@@ -1,46 +1,10 @@
-Year,Gender,Units,Value
-2019,,Council Seats,15
-2019,M,Council Seats,13
-2019,F,Council Seats,2
-2019,M,Proportion of Council Seats,87
-2019,F,Proportion of Council Seats,13
-2018,,Council Seats,15
-2018,M,Council Seats,13
-2018,F,Council Seats,2
-2018,M,Proportion of Council Seats,87
-2018,F,Proportion of Council Seats,13
-2017,,Council Seats,15
-2017,M,Council Seats,13
-2017,F,Council Seats,2
-2017,M,Proportion of Council Seats,87
-2017,F,Proportion of Council Seats,13
-2016,,Council Seats,15
-2016,M,Council Seats,14
-2016,F,Council Seats,1
-2016,M,Proportion of Council Seats,93
-2016,F,Proportion of Council Seats,7
-2015,,Council Seats,15
-2015,M,Council Seats,14
-2015,F,Council Seats,1
-2015,M,Proportion of Council Seats,93
-2015,F,Proportion of Council Seats,7
-2014,,Council Seats,15
-2014,M,Council Seats,14
-2014,F,Council Seats,1
-2014,M,Proportion of Council Seats,93
-2014,F,Proportion of Council Seats,7
-2013,,Council Seats,15
-2013,M,Council Seats,14
-2013,F,Council Seats,1
-2013,M,Proportion of Council Seats,93
-2013,F,Proportion of Council Seats,7
-2012,,Council Seats,15
-2012,M,Council Seats,15
-2012,F,Council Seats,0
-2012,M,Proportion of Council Seats,100
-2012,F,Proportion of Council Seats,0
-2011,,Council Seats,15
-2011,M,Council Seats,14
-2011,F,Council Seats,1
-2011,M,Proportion of Council Seats,93
-2011,F,Proportion of Council Seats,7
+Year,Elected v. Commission,Units,Value
+2020,Elected,Proportion of women,11
+2019,Elected,Proportion of women,11
+2018,Elected,Proportion of women,11
+2017,Elected,Proportion of women,11
+2016,Elected,Proportion of women,6
+2015,Elected,Proportion of women,6
+2014,Elected,Proportion of women,6
+2013,Elected,Proportion of women,6
+2020,Boards and Commissions,Proportion of women,56
