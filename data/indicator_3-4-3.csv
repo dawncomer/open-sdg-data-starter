@@ -1,26 +1,109 @@
-Year,Gender,Race/ Ethnicity,Value
-2013,,,7.9
-2013,Female,,3.4
-2013,Male,,12.5
-2014,,,8.1
-2014,Female,,3.5
-2014,Male,,12.8
-2015,,,8.1
-2015,Female,,3.5
-2015,Male,,12.8
-2016,,,8.3
-2016,Female,,3.1
-2016,Male,,13.6
-2017,,,8.7
-2017,Female,,3.9
-2017,Male,,13.7
-2018,,,9.4
-2018,Female,,3.8
-2018,Male,,15.1
-2019,,,8.6
-2019,Female,,3.5
-2019,Male,,13.8
-2019,,Hispanic or Latino,5.2
-2019,,Asian or Pacific Islander,7.4
-2019,,Black or African American,7.6
-2019,,White,15.7
+Year,Grade,Race / Ethnicity,Sexual Orientation,Units,Value
+2019,,,,High School Students,"1,043"
+2019,9th Grade,,,High School Students,208
+2019,10th Grade,,,High School Students,333
+2019,11th Grade,,,High School Students,271
+2019,12th Grade,,,High School Students,216
+2019,,,,High School Students,"1,043"
+2019,,American Indian or Alaskan Native,,High School Students,3
+2019,,Asian,,High School Students,34
+2019,,Black or African American,,High School Students,57
+2019,,Hispanic or Latino,,High School Students,847
+2019,,Native Hawaiian or Other Pacific Islander,,High School Students,7
+2019,,White,,High School Students,46
+2019,,Multiple Race,,High School Students,22
+2019,,,,High School Students,"1,043"
+2019,,,Heterosexual,High School Students,876
+2019,,,"Homosexual ",High School Students,109
+2019,,,Bisexual,High School Students,85
+2019,,,Not sure,High School Students,49
+2017,,,,High School Students,1155
+2017,9th Grade,,,High School Students,324
+2017,10th Grade,,,High School Students,373
+2017,11th Grade,,,High School Students,231
+2017,12th Grade,,,High School Students,220
+2017,,,,High School Students,1155
+2017,,American Indian or Alaskan Native,,High School Students,1
+2017,,Asian,,High School Students,121
+2017,,Black or African American,,High School Students,61
+2017,,Hispanic or Latino,,High School Students,802
+2017,,Native Hawaiian or Other Pacific Islander,,High School Students,7
+2017,,White,,High School Students,90
+2017,,Multiple Race,,High School Students,38
+2017,,,,High School Students,1155
+2017,,,Heterosexual,High School Students,1000
+2017,,,"Homosexual ",High School Students,93
+2017,,,Bisexual,High School Students,74
+2017,,,Not sure,High School Students,46
+2015,,,,High School Students,1980
+2015,9th Grade,,,High School Students,590
+2015,10th Grade,,,High School Students,532
+2015,11th Grade,,,High School Students,401
+2015,12th Grade,,,High School Students,439
+2015,,,,High School Students,1980
+2015,,American Indian or Alaskan Native,,High School Students,9
+2015,,Asian,,High School Students,127
+2015,,Black or African American,,High School Students,166
+2015,,Hispanic or Latino,,High School Students,1380
+2015,,Native Hawaiian or Other Pacific Islander,,High School Students,36
+2015,,White,,High School Students,152
+2015,,Multiple Race,,High School Students,60
+2015,,,,High School Students,1980
+2015,,,Heterosexual,High School Students,1697
+2015,,,"Homosexual ",High School Students,139
+2015,,,Bisexual,High School Students,98
+2015,,,Not sure,High School Students,76
+2013,,,,High School Students,1372
+2013,9th Grade,,,High School Students,439
+2013,10th Grade,,,High School Students,257
+2013,11th Grade,,,High School Students,299
+2013,12th Grade,,,High School Students,362
+2013,,,,High School Students,1372
+2013,,American Indian or Alaskan Native,,High School Students,8
+2013,,Asian,,High School Students,116
+2013,,Black or African American,,High School Students,82
+2013,,Hispanic or Latino,,High School Students,980
+2013,,Native Hawaiian or Other Pacific Islander,,High School Students,21
+2013,,White,,High School Students,87
+2013,,Multiple Race,,High School Students,47
+2013,,,,High School Students,1372
+2013,,,Heterosexual,High School Students,1191
+2013,,,"Homosexual ",High School Students,95
+2013,,,Bisexual,High School Students,71
+2013,,,Not sure,High School Students,54
+2011,,,,High School Students,1470
+2011,9th Grade,,,High School Students,468
+2011,10th Grade,,,High School Students,276
+2011,11th Grade,,,High School Students,358
+2011,12th Grade,,,High School Students,345
+2011,,,,High School Students,1470
+2011,,American Indian or Alaskan Native,,High School Students,6
+2011,,Asian,,High School Students,110
+2011,,Black or African American,,High School Students,74
+2011,,Hispanic or Latino,,High School Students,966
+2011,,Native Hawaiian or Other Pacific Islander,,High School Students,28
+2011,,White,,High School Students,193
+2011,,Multiple Race,,High School Students,48
+2011,,,,High School Students,1470
+2011,,,Heterosexual,High School Students,1296
+2011,,,"Homosexual ",High School Students,108
+2011,,,Bisexual,High School Students,84
+2011,,,Not sure,High School Students,52
+2009,,,,High School Students,1641
+2009,9th Grade,,,High School Students,597
+2009,10th Grade,,,High School Students,378
+2009,11th Grade,,,High School Students,346
+2009,12th Grade,,,High School Students,297
+2009,,,,High School Students,1641
+2009,,American Indian or Alaskan Native,,High School Students,4
+2009,,Asian,,High School Students,152
+2009,,Black or African American,,High School Students,79
+2009,,Hispanic or Latino,,High School Students,1162
+2009,,Native Hawaiian or Other Pacific Islander,,High School Students,33
+2009,,White,,High School Students,127
+2009,,Multiple Race,,High School Students,38
+2009,,,,High School Students,1641
+2009,,,Heterosexual,High School Students,1440
+2009,,,"Homosexual ",High School Students,122
+2009,,,Bisexual,High School Students,90
+2009,,,Not sure,High School Students,52
