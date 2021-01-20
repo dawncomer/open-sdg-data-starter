@@ -14,7 +14,7 @@ Year,Grade,Race / Ethnicity,Sexual Orientation,Units,Value
 2019,,Multiple Race,,High School Students,22
 2019,,,,High School Students,1043
 2019,,,Heterosexual,High School Students,876
-2019,,,"Homosexual ",High School Students,109
+2019,,,Homosexual,High School Students,109
 2019,,,Bisexual,High School Students,85
 2019,,,Not sure,High School Students,49
 2017,,,,High School Students,1155
@@ -32,7 +32,7 @@ Year,Grade,Race / Ethnicity,Sexual Orientation,Units,Value
 2017,,Multiple Race,,High School Students,38
 2017,,,,High School Students,1155
 2017,,,Heterosexual,High School Students,1000
-2017,,,"Homosexual ",High School Students,93
+2017,,,Homosexual,High School Students,93
 2017,,,Bisexual,High School Students,74
 2017,,,Not sure,High School Students,46
 2015,,,,High School Students,1980
@@ -50,7 +50,7 @@ Year,Grade,Race / Ethnicity,Sexual Orientation,Units,Value
 2015,,Multiple Race,,High School Students,60
 2015,,,,High School Students,1980
 2015,,,Heterosexual,High School Students,1697
-2015,,,"Homosexual ",High School Students,139
+2015,,,Homosexual,High School Students,139
 2015,,,Bisexual,High School Students,98
 2015,,,Not sure,High School Students,76
 2013,,,,High School Students,1372
@@ -68,7 +68,7 @@ Year,Grade,Race / Ethnicity,Sexual Orientation,Units,Value
 2013,,Multiple Race,,High School Students,47
 2013,,,,High School Students,1372
 2013,,,Heterosexual,High School Students,1191
-2013,,,"Homosexual ",High School Students,95
+2013,,,Homosexual,High School Students,95
 2013,,,Bisexual,High School Students,71
 2013,,,Not sure,High School Students,54
 2011,,,,High School Students,1470
@@ -86,7 +86,7 @@ Year,Grade,Race / Ethnicity,Sexual Orientation,Units,Value
 2011,,Multiple Race,,High School Students,48
 2011,,,,High School Students,1470
 2011,,,Heterosexual,High School Students,1296
-2011,,,"Homosexual ",High School Students,108
+2011,,,Homosexual,High School Students,108
 2011,,,Bisexual,High School Students,84
 2011,,,Not sure,High School Students,52
 2009,,,,High School Students,1641
@@ -104,6 +104,6 @@ Year,Grade,Race / Ethnicity,Sexual Orientation,Units,Value
 2009,,Multiple Race,,High School Students,38
 2009,,,,High School Students,1641
 2009,,,Heterosexual,High School Students,1440
-2009,,,"Homosexual ",High School Students,122
+2009,,,Homosexual,High School Students,122
 2009,,,Bisexual,High School Students,90
 2009,,,Not sure,High School Students,52
