@@ -1,109 +1,25 @@
-Year,Grade,Race / Ethnicity,Sexual Orientation,Value
-2019,,,,1043
-2019,9th Grade,,,208
-2019,10th Grade,,,333
-2019,11th Grade,,,271
-2019,12th Grade,,,216
-2019,,,,1043
-2019,,American Indian or Alaskan Native,,3
-2019,,Asian,,34
-2019,,Black or African American,,57
-2019,,Hispanic or Latino,,847
-2019,,Native Hawaiian or Other Pacific Islander,,7
-2019,,White,,46
-2019,,Multiple Race,,22
-2019,,,,1043
-2019,,,Heterosexual,876
-2019,,,Homosexual,109
-2019,,,Bisexual,85
-2019,,,Not sure,49
-2017,,,,1155
-2017,9th Grade,,,324
-2017,10th Grade,,,373
-2017,11th Grade,,,231
-2017,12th Grade,,,220
-2017,,,,1155
-2017,,American Indian or Alaskan Native,,1
-2017,,Asian,,121
-2017,,Black or African American,,61
-2017,,Hispanic or Latino,,802
-2017,,Native Hawaiian or Other Pacific Islander,,7
-2017,,White,,90
-2017,,Multiple Race,,38
-2017,,,,1155
-2017,,,Heterosexual,1000
-2017,,,Homosexual,93
-2017,,,Bisexual,74
-2017,,,Not sure,46
-2015,,,,1980
-2015,9th Grade,,,590
-2015,10th Grade,,,532
-2015,11th Grade,,,401
-2015,12th Grade,,,439
-2015,,,,1980
-2015,,American Indian or Alaskan Native,,9
-2015,,Asian,,127
-2015,,Black or African American,,166
-2015,,Hispanic or Latino,,1380
-2015,,Native Hawaiian or Other Pacific Islander,,36
-2015,,White,,152
-2015,,Multiple Race,,60
-2015,,,,1980
-2015,,,Heterosexual,1697
-2015,,,Homosexual,139
-2015,,,Bisexual,98
-2015,,,Not sure,76
-2013,,,,1372
-2013,9th Grade,,,439
-2013,10th Grade,,,257
-2013,11th Grade,,,299
-2013,12th Grade,,,362
-2013,,,,1372
-2013,,American Indian or Alaskan Native,,8
-2013,,Asian,,116
-2013,,Black or African American,,82
-2013,,Hispanic or Latino,,980
-2013,,Native Hawaiian or Other Pacific Islander,,21
-2013,,White,,87
-2013,,Multiple Race,,47
-2013,,,,1372
-2013,,,Heterosexual,1191
-2013,,,Homosexual,95
-2013,,,Bisexual,71
-2013,,,Not sure,54
-2011,,,,1470
-2011,9th Grade,,,468
-2011,10th Grade,,,276
-2011,11th Grade,,,358
-2011,12th Grade,,,345
-2011,,,,1470
-2011,,American Indian or Alaskan Native,,6
-2011,,Asian,,110
-2011,,Black or African American,,74
-2011,,Hispanic or Latino,,966
-2011,,Native Hawaiian or Other Pacific Islander,,28
-2011,,White,,193
-2011,,Multiple Race,,48
-2011,,,,1470
-2011,,,Heterosexual,1296
-2011,,,Homosexual,108
-2011,,,Bisexual,84
-2011,,,Not sure,52
-2009,,,,1641
-2009,9th Grade,,,597
-2009,10th Grade,,,378
-2009,11th Grade,,,346
-2009,12th Grade,,,297
-2009,,,,1641
-2009,,American Indian or Alaskan Native,,4
-2009,,Asian,,152
-2009,,Black or African American,,79
-2009,,Hispanic or Latino,,1162
-2009,,Native Hawaiian or Other Pacific Islander,,33
-2009,,White,,127
-2009,,Multiple Race,,38
-2009,,,,1641
-2009,,,Heterosexual,1440
-2009,,,Homosexual,122
-2009,,,Bisexual,90
-2009,,,Not sure,52
+Year,Sexual Orientation,Value
+2019,,9.40
+2019,Heterosexual,7.80
+2019,"Gay, Lesbian or Bisexual",16.40
+2019,Not sure,18.80
+2017,,8.40
+2017,Heterosexual,6.50
+2017,"Gay, Lesbian or Bisexual",25.90
+2017,Not sure,17.60
+2015,,8.40
+2015,Heterosexual,6.10
+2015,"Gay, Lesbian or Bisexual",24.00
+2015,Not sure,31.00
+2013,,8.40
+2013,Heterosexual,6.30
+2013,"Gay, Lesbian or Bisexual",23.30
+2013,Not sure,22.20
+2011,,10.80
+2011,Heterosexual,8.50
+2011,"Gay, Lesbian or Bisexual",26.80
+2011,Not sure,28.20
+2009,,8.80
+2009,Heterosexual,7.80
+2009,"Gay, Lesbian or Bisexual",20.10
+2009,Not sure,13.80
